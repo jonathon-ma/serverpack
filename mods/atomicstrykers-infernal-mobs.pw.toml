@@ -1,13 +1,13 @@
-filename = 'infernalmobs-1.19.2.4.jar'
 name = "AtomicStryker's Infernal Mobs"
-side = 'both'
+filename = "infernalmobs-1.19.2.4.jar"
+side = "both"
 
 [download]
-hash = '976cb3056b4121c5711540d30863a00a90c3e872'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "976cb3056b4121c5711540d30863a00a90c3e872"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4375427
 project-id = 227875

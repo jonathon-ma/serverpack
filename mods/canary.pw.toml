@@ -1,13 +1,13 @@
-filename = 'canary-mc1.19.2-0.3.0.jar'
-name = 'Canary'
-side = 'both'
+name = "Canary"
+filename = "canary-mc1.19.2-0.3.0.jar"
+side = "both"
 
 [download]
-hash = 'fa8ffa299123e543a1b85b7923d5d8a9814a9dc920b8333f787ba789b7415e06eac7161df8ce30eedf6e6011ec6be2692ee7861bcff954f0095b8cd481f3885f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qa2H4BS9/versions/TmPT9PDN/canary-mc1.19.2-0.3.0.jar'
+hash-format = "sha1"
+hash = "bf1f8521a1f44d907178d52ee88a4d587757a86a"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'qa2H4BS9'
-version = 'TmPT9PDN'
+[update]
+[update.curseforge]
+file-id = 5010727
+project-id = 665658

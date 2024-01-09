@@ -1,13 +1,13 @@
-filename = 'AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar'
-name = 'AmbientSounds'
-side = 'client'
+name = "AmbientSounds 5"
+filename = "AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar"
+side = "both"
 
 [download]
-hash = '459b1351c571680683d57ff6cc1413c3cbeb04fde9b9e53416c99eff594175a9ee2b87454978df0200a2feda81157d0bc7d45b6dac6fc5d4ca99bebeb7aa1495'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/fM515JnW/versions/yNFnf8du/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar'
+hash-format = "sha1"
+hash = "d7e98425a060a1f7b01732960e5d1c92019ce41e"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'fM515JnW'
-version = 'yNFnf8du'
+[update]
+[update.curseforge]
+file-id = 4126142
+project-id = 254284
