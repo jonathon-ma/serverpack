@@ -1,0 +1,13 @@
+filename = 'fastpaintings-1.19-1.1.2.jar'
+name = 'Fast Paintings'
+side = 'both'
+
+[download]
+hash = '09bcced4ad281d27e047cd662991bf2e0c4c3a1c6f7ae8a0a1dfb79fc0bdf0f997b43fe95cd888f828d8b62b770d3582be05f379e892aba5a75692bce938d14d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z3TzcquW/versions/zP52opck/fastpaintings-1.19-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'z3TzcquW'
+version = 'zP52opck'

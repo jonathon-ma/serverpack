@@ -1,0 +1,13 @@
+filename = 'CNB-1.19-1.5.4.jar'
+name = 'Creatures and Beasts'
+side = 'both'
+
+[download]
+hash = '0941e384d4ecd947bc442d9bcbd5a77dfedc4ddb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4556106
+project-id = 414401

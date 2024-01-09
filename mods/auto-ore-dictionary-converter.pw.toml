@@ -1,0 +1,13 @@
+filename = 'autooredictconv-1.19.2-19.0.0.jar'
+name = 'Auto Ore Dictionary Converter'
+side = 'both'
+
+[download]
+hash = '8c3b0a95b5f6077fdc6b9937444bde4d5ccf3a40'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4502857
+project-id = 232650

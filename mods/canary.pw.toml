@@ -1,0 +1,13 @@
+filename = 'canary-mc1.19.2-0.3.0.jar'
+name = 'Canary'
+side = 'both'
+
+[download]
+hash = 'fa8ffa299123e543a1b85b7923d5d8a9814a9dc920b8333f787ba789b7415e06eac7161df8ce30eedf6e6011ec6be2692ee7861bcff954f0095b8cd481f3885f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qa2H4BS9/versions/TmPT9PDN/canary-mc1.19.2-0.3.0.jar'
+
+[update.modrinth]
+mod-id = 'qa2H4BS9'
+version = 'TmPT9PDN'

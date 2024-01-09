@@ -1,0 +1,13 @@
+filename = 'fastportals-1.0.2-forge.jar'
+name = 'Fast Portals'
+side = 'both'
+
+[download]
+hash = 'd724fb4b55b567a76d95680a3c316df66e163229'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4593354
+project-id = 807397

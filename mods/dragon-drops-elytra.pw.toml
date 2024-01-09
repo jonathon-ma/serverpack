@@ -1,0 +1,13 @@
+filename = 'dragondropselytra-1.19.2-3.2.jar'
+name = 'Dragon Drops Elytra'
+side = 'both'
+
+[download]
+hash = 'c60dde4320ff3f2d6ff247b7cbd271003bbf46d1ed06166bc49e15c9d044abb0c3b13b9cede8562a80e209cfc7cfba3646f181f465a9499e2a37c89c21994e3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DPkbo3dg/versions/TSJW15RI/dragondropselytra-1.19.2-3.2.jar'
+
+[update.modrinth]
+mod-id = 'DPkbo3dg'
+version = 'TSJW15RI'

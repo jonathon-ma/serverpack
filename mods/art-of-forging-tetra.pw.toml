@@ -1,0 +1,13 @@
+filename = 'art_of_forging-1.6.7-1.19.2.jar'
+name = 'Art of Forging: A Tetra Addon'
+side = 'both'
+
+[download]
+hash = '1ca653aaf9667a8e1a6411182631e7567e5c06d8402d44d97fb4a804e47736b497913150c08408ba500d91605a74148b6ed5c50b934280417693ac884261a8c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y9qsR64e/versions/KoaDdUop/art_of_forging-1.6.7-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'Y9qsR64e'
+version = 'KoaDdUop'
