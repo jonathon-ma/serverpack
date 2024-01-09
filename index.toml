@@ -36,11 +36,6 @@ hash = "6ef8645be694b6a96970c3e753b16c239ab132712a3cf4f8246b667490c13f5f"
 metafile = true
 
 [[files]]
-file = "mods/art-of-forging-tetra.pw.toml"
-hash = "6b10461cc016192a0f1aeb82dc12ec60b28942229ed5d17d0fc92f1371323951"
-metafile = true
-
-[[files]]
 file = "mods/atomicstrykers-infernal-mobs.pw.toml"
 hash = "6a528d1e9565c66754420460574b9f074d3dc298e627116cd2ea6d6777764585"
 metafile = true
@@ -512,11 +507,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "ccb76162943ee60c92d3f3ce6bea9f0046d0e255065ac387ed6f26ec01197663"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "fbfef07e4e70eb4f0b56b4eb4d61fb98f77683a8de0b0cbafea279104c8b6a05"
 metafile = true
 
 [[files]]
