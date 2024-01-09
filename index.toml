@@ -36,11 +36,6 @@ hash = "6ef8645be694b6a96970c3e753b16c239ab132712a3cf4f8246b667490c13f5f"
 metafile = true
 
 [[files]]
-file = "mods/art-of-forging-tetra.pw.toml"
-hash = "6b10461cc016192a0f1aeb82dc12ec60b28942229ed5d17d0fc92f1371323951"
-metafile = true
-
-[[files]]
 file = "mods/atomicstrykers-infernal-mobs.pw.toml"
 hash = "6a528d1e9565c66754420460574b9f074d3dc298e627116cd2ea6d6777764585"
 metafile = true
@@ -241,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fd4ed5575909ab5acc5100f37862944d77f026820f76dbc7d4fcf4788ad87243"
+hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
 metafile = true
 
 [[files]]
@@ -460,11 +455,6 @@ hash = "710975d27cc68e448e010aa2c26a6b3294fc539cc74a7ff6ab5eba1c04f95ae0"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "48bcd590d7dbb3b725a9f05d34a128ab5f5254d9ae1110fd0c6dbf84e0a4be61"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
 metafile = true
@@ -512,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "ccb76162943ee60c92d3f3ce6bea9f0046d0e255065ac387ed6f26ec01197663"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "fbfef07e4e70eb4f0b56b4eb4d61fb98f77683a8de0b0cbafea279104c8b6a05"
 metafile = true
 
 [[files]]
