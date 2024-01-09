@@ -1,0 +1,13 @@
+filename = 'mutantmore-1.19.2-early-access-1.0.7.jar'
+name = 'Mutant More'
+side = 'both'
+
+[download]
+hash = '367f9c798a5ea200e1c129022499129e68edb101'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4447467
+project-id = 831753

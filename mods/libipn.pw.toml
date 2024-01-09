@@ -1,0 +1,13 @@
+filename = 'libIPN-forge-1.19-4.0.1.jar'
+name = 'libIPN'
+side = 'client'
+
+[download]
+hash = 'd5cbd4369580f607a17d5bdd6f3f0b4a6d939d06f224df7d9103c55d983b306fb5c170c615f3643f5781083d3c8fccc69b3630ce4a6e1d97e5266c39d002be2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/onSQdWhM/versions/TwafbniX/libIPN-forge-1.19-4.0.1.jar'
+
+[update.modrinth]
+mod-id = 'onSQdWhM'
+version = 'TwafbniX'

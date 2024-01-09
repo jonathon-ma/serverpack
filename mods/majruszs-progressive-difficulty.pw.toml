@@ -1,0 +1,13 @@
+filename = 'majruszs-difficulty-1.19.2-1.8.1.jar'
+name = "Majrusz's Progressive Difficulty"
+side = 'both'
+
+[download]
+hash = '9b71b7f51ca61bc816cdc3c8a92b39c83993aaf8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4753803
+project-id = 430642
