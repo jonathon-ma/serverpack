@@ -1,0 +1,585 @@
+hash-format = "sha256"
+
+[[files]]
+file = "AdLods-1.19.2-7.0.8.1-build.0865.jar"
+hash = "98c874b7165f487eaad315098c97be65745558ebabc52fb373b21d5f0c9236f1"
+
+[[files]]
+file = "AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar"
+hash = "be0e3bd2c23c9f5c74f479a125e00ae724ed08070a97d3f6273037df436509b5"
+
+[[files]]
+file = "Apotheosis-1.19.2-6.4.1.jar"
+hash = "81562a57446fa189853abbecd719a1a4ac2f7ffe743213d9f19050acc95cde0b"
+
+[[files]]
+file = "AutoRegLib-1.8.2-55.jar"
+hash = "a6e61dd9ba08d375146cf850d3c8c30f6478c9c898fda7245a507732368fd377"
+
+[[files]]
+file = "Botania-1.19.2-440-FORGE.jar"
+hash = "cd56e89845349b9dff7a8112c4811818fab8e325c8597277059d531ddde6111f"
+
+[[files]]
+file = "CNB-1.19-1.5.4.jar"
+hash = "37aba120b6cbcebb58bbb8b5d622b5aa80424aff48318f685195054bd4451894"
+
+[[files]]
+file = "ChickenChunks-1.19.2-2.9.4.97-universal.jar"
+hash = "1e1b779b3b300935f0d06039f164b6a0d7a5d777de4af50b61fb0da8215fe25f"
+
+[[files]]
+file = "Clumps-forge-1.19.2-9.0.0+14.jar"
+hash = "ca3441d5f84212a9f7262afc5ea7521257b8b9b378e5882afa845448fe674421"
+
+[[files]]
+file = "CodeChickenLib-1.19.2-4.3.2.490-universal.jar"
+hash = "6edcd4de36c4067068adad7a51426f18ad7a114ac922cc34c887ac0cafb43a6f"
+
+[[files]]
+file = "CreativeCore_FORGE_v2.9.4_mc1.19.2.jar"
+hash = "e3c7fd76cbfcd1a601b5995dc77ee793bf6de525784545862d2a36208cbe52ef"
+
+[[files]]
+file = "Cucumber-1.19.2-6.0.10.jar"
+hash = "dcab7dc76afe8e61a8dad3e93b0a939cabc81811bc1f8726b97a6d968ae0b43a"
+
+[[files]]
+file = "DistantHorizons-2.0.1-a-1.19.2.jar"
+hash = "5c2b0892cfa71c156b0ad28e7246201f87bed86da940a89c1616452f8ab32493"
+
+[[files]]
+file = "Emojiful-Forge-1.19.2-4.0.4-all.jar"
+hash = "02b4882c38809ec8f1763b5a1152a16ee813d0b8d92c2107185bbbc929491e3c"
+
+[[files]]
+file = "Entity_Collision_FPS_Fix-forge-1.18.2-1.0.0.jar"
+hash = "869bbf8c0b9a8b8a587802756d6635b9432c125c7b9fe37d7113190e664c0f76"
+
+[[files]]
+file = "EquipmentCompare-1.19.2-forge-1.3.2.jar"
+hash = "478bd4d551ddc97c0aaa01946dc8811ad24d95b5553aabd6d8ff5d46f9e3aba9"
+
+[[files]]
+file = "FPS-Monitor-1.19.2-1.3.0.jar"
+hash = "9d6f63060e8e8e8d9a9e320ca15d1315c983592c9a4877a54ec6b8b8e61a0636"
+
+[[files]]
+file = "FarmersDelight-1.19.2-1.2.3.jar"
+hash = "399a167c6494e2a77bd687a95295baf3ba236f15d0fc120bd5ff850f88e48fa9"
+
+[[files]]
+file = "FastSuite-1.19.2-4.1.1.jar"
+hash = "27b28778b6b753eb2be65b50fde2f6b24357817ba7c42f6fa5d68ce1253f781e"
+
+[[files]]
+file = "Fastload-Reforged-mc1.19.2-3.4.0.jar"
+hash = "7bbccaa7e774db1d42000f27bce66c8fac57d700ab7063f7fec491573da9ffa7"
+
+[[files]]
+file = "ForgeEndertech-1.19.2-10.0.6.1-build.0897.jar"
+hash = "88a8e06c617cd58d6ca43c2a24b8a61d71e30be3807aa26dcb89cb13592ef899"
+
+[[files]]
+file = "IC2CExtras-2.0.1.jar"
+hash = "ddb043be0b6f32c0ecb24837690f1231fb5f852a4dac887345b3cdf612bed06d"
+
+[[files]]
+file = "IC2Classic-1.19.2-2.0.8.1.jar"
+hash = "abfb065b50cf4967767fe7d0bab1afb8f52a276c1743583a5e5525564538a18c"
+
+[[files]]
+file = "Iceberg-1.19.2-forge-1.1.4.jar"
+hash = "b9c1ebdf11e7538761aa30f229fb6ce3890057a2af13f11be93c299da9125d1c"
+
+[[files]]
+file = "ImmediatelyFast-Forge-1.2.8+1.19.2.jar"
+hash = "0e2777494bc4d5870e9996de7fa9d947eb24e1f9924c32168aaeee7adcbb0c45"
+
+[[files]]
+file = "InsaneLib-1.7.5-mc1.19.2.jar"
+hash = "730748b425ecd698a09dae2c1faf2a91165a9729efedbc0d0640868975c1c805"
+
+[[files]]
+file = "InventoryProfilesNext-forge-1.19-1.10.9.jar"
+hash = "0ac180ace11ddc280928be519a31d6ee7b8cb22b295f942f0c26f8772fa86b07"
+
+[[files]]
+file = "Jade-1.19.1-forge-8.9.2.jar"
+hash = "2c06173bae9074b11523ca9366db2b37431a90f6b65ce97a7820dac11aefca81"
+
+[[files]]
+file = "JustEnoughResources-1.19.2-1.1.0.179.jar"
+hash = "e6221ac3ef5969dc7f7f26d65fe8c738283cc0ef7d6fe4cfd1168c887e3ec6b2"
+
+[[files]]
+file = "MouseTweaks-forge-mc1.19-2.23.jar"
+hash = "bf918fbaee669121d431c295337bd24ad90d2f9cb5e88bc46a241991ab401f81"
+
+[[files]]
+file = "MysticalAgriculture-1.19.2-6.0.13.jar"
+hash = "aa7abf269099adf0d56d4beda1c4e04a9ca95cd5ded402ffddad6a760ea837f4"
+
+[[files]]
+file = "Neat-1.19-32.jar"
+hash = "3bc30502c364174506d705f6dc5556de5b5cb39d3cd2ac54a1040d7359df9e0a"
+
+[[files]]
+file = "NekosEnchantedBooks-1.19-1.8.0.jar"
+hash = "88eb6e783ecc5955266c342c98a82429c531344988aadf242a9e02711db07baf"
+
+[[files]]
+file = "Patchouli-1.19.2-77.jar"
+hash = "ac3310decfc55493bd5b07da1ffb000f6be7a6cc24b3112088263d4cc64d100a"
+
+[[files]]
+file = "Placebo-1.19.2-7.3.4.jar"
+hash = "27c6618c08f9077c15215503530026da1c82faa1d10fee976be780d5ecc5b754"
+
+[[files]]
+file = "ProgressiveBosses-3.7.5-mc1.19.2.jar"
+hash = "f5b6211e4a8424323d76536fe27627c401748c0b4d09007e3f0af2254b5cd72d"
+
+[[files]]
+file = "PuzzlesLib-v4.4.3-1.19.2-Forge.jar"
+hash = "bb95c2854dd24d60f0bf93c7f3e45e79661067920618ed590e140000cc67210d"
+
+[[files]]
+file = "Quark-3.4-418.jar"
+hash = "88802b12b343afa9a70483459eba6bc360007a8c40fe18f9c49ea1f5704dd131"
+
+[[files]]
+file = "SereneSeasons-1.19.2-8.1.0.24.jar"
+hash = "c562d3e90338338221a5d5b5c542b19a77710fb3001f397bb99416450e96fac5"
+
+[[files]]
+file = "Terralith_1.19.3_v2.3.12.jar"
+hash = "4f74497c92b224a12be231b32c50e55db41e6051ebba5d87ce63aad78204b663"
+
+[[files]]
+file = "TrampleStopper-3.8.1-build.35+mc1.19.2.jar"
+hash = "8ed5bb22ff104ab87fd0028d6247598b41e04661ecf1fae2b0d489f0225835c2"
+
+[[files]]
+file = "TreePlant-1.19.1-0.3.1.jar"
+hash = "ae57f931575f8debd315722ad6cab382d25e8472f2e833558142dd7072e743a5"
+
+[[files]]
+file = "Undefeatables 1.7.jar"
+hash = "2e43a1bce1ed29185ddedf940b499883f2739adeff396c475851cae6249c48b7"
+
+[[files]]
+file = "UnusualEnd1.19.2_V1.4.3.jar"
+hash = "f2136b6c1460ecdef4b00e9b27f21c466f03c50402fca930b68a2a28f11fa430"
+
+[[files]]
+file = "YungsApi-1.19.2-Forge-3.8.10.jar"
+hash = "da0e8682b0be608c2df0758bb188a4eafb138f308ff62e94ec6335ba6fadeb51"
+
+[[files]]
+file = "YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar"
+hash = "df33053f2e10e1c29e29ab7d5ce22a68972adffd0d8ef6a524e2bde5e81c647d"
+
+[[files]]
+file = "YungsBetterDungeons-1.19.2-Forge-3.2.2.jar"
+hash = "0ec801ccaa72b92ce696b9587736f4eb907e0fbf8077a6a3d7c4102ef0b89c41"
+
+[[files]]
+file = "YungsBetterEndIsland-1.19.2-Forge-1.0.jar"
+hash = "549adae7a5306b6e7b416089d5d6713afde6dfdb26b1536d767f6ceed7465d05"
+
+[[files]]
+file = "YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar"
+hash = "02a2ad9650276c80bd6f194a9b99a2e5a940036feb27753171f033664e239251"
+
+[[files]]
+file = "YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar"
+hash = "ef305173fa339d82f8ca10ed75c07e84ccdde887ba2354aacec5baaad20849c5"
+
+[[files]]
+file = "YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar"
+hash = "3740a27ff72b5aed2f7a9839f469d20e8d7214bec661eb9f2bcf50ed6c4d4828"
+
+[[files]]
+file = "YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar"
+hash = "49b1d19745b9468bf2a24513baf08feb1bdbcf219a1964424f02716fd1f1a4db"
+
+[[files]]
+file = "YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar"
+hash = "d234a6eb1ea8850c8acd0e2f2280304e50817d96718773c5257879e16f14d72f"
+
+[[files]]
+file = "YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar"
+hash = "c4cbd4d631cc9ba83ea5c3f09717cdd2af43336328d5e50516baa896c5a48aa0"
+
+[[files]]
+file = "YungsBridges-1.19.2-Forge-3.1.0.jar"
+hash = "ea1c35add79d1e18d8a25c3ccec72cbc0d19c371899d5c52c92123962c4d3260"
+
+[[files]]
+file = "YungsExtras-1.19.2-Forge-3.1.0.jar"
+hash = "4f0dbf2807ee8fe5ea9c5b57100f8796facaa88801850770b70660e3cdd9831c"
+
+[[files]]
+file = "aether-1.19.2-1.0.0-forge.jar"
+hash = "6139b5fe333b863cc3ee6fdfd313b0bfb4d1f190b7aa6c06470dbf1691b45526"
+
+[[files]]
+file = "alternate-current-mc1.19-1.7.0.jar"
+hash = "c368e89707b545ad79ab15d5f48610dc7c83466a48a491b6e4b19402e7ce3f7e"
+
+[[files]]
+file = "appleskin-forge-mc1.19-2.4.2.jar"
+hash = "3a7c90665e5324ea5b5493862afa1655965bb1876d21f387a6f7283b43bb696e"
+
+[[files]]
+file = "architectury-6.5.85-forge.jar"
+hash = "c480cb342a5226f7ff863752349752a71f93c7496918b1585ee92d063cd94648"
+
+[[files]]
+file = "art_of_forging-1.6.7-1.19.2.jar"
+hash = "7505edffda08946cbdd360f52f7e933ad5a42b6b4bcffa721a36ea1dc1d63697"
+
+[[files]]
+file = "autooredictconv-1.19.2-19.0.0.jar"
+hash = "edefeccc07c44f26665eb18da81a1c120ffa7b45f31325ad4d8d60d9557b21b5"
+
+[[files]]
+file = "balm-forge-1.19.2-4.6.0.jar"
+hash = "b35e87c6a8c5f0053afe2a5006072e9322e8747d4e980580cb1de34ca4b926c2"
+
+[[files]]
+file = "blockui-1.19.2-1.0.129-BETA.jar"
+hash = "539e129dc245c7fa11e5a48d5aa8a2b53ab5bc1fa200ea2fb226d247a47fbdcb"
+
+[[files]]
+file = "brutalbosses-1.19.2-6.3.jar"
+hash = "bf62711acc191d63fdcb3b67b069f0d9eb6fb158797a014d7584714eb951248e"
+
+[[files]]
+file = "bwncr-forge-1.19.2-3.14.1.jar"
+hash = "ae5e09f7855800f415b85006643dc577c8c7df64bcc32075549357faa4fc9804"
+
+[[files]]
+file = "caelus-forge-1.19.2-3.0.0.6.jar"
+hash = "4bbdb4378dd6e6832117fb79aa45386d33197fb88a69fcd2a775959e7e86718f"
+
+[[files]]
+file = "canary-mc1.19.2-0.3.0.jar"
+hash = "a2a4a89a67fbb8b191c6fda431161517e02f4bd007396c48a99f70632c9e33fd"
+
+[[files]]
+file = "carryon-forge-1.19.2-2.1.1.22.jar"
+hash = "05fcb56ccb47865abe136adaf8a03c3c8660685d2d6d3e47ca8fa0908ea4c3f4"
+
+[[files]]
+file = "chat_heads-0.10.30-forge-1.19.2.jar"
+hash = "0d355704bd997ebaa37024986dd0ed835cdf6ddd37af16952efadb3c7a39067d"
+
+[[files]]
+file = "clay-0.4.2-forge-1.19.2.jar"
+hash = "35d33073915e665a8433a9c770b4fb89446d8c2f7cf508c3db9148aa9b8e5f3f"
+
+[[files]]
+file = "cloth-config-8.3.115-forge.jar"
+hash = "e51cc77660542cd3d187ac5dfe3ee938ba0872867a6f33d2d0058adc314ec68f"
+
+[[files]]
+file = "collective-1.19.2-7.30.jar"
+hash = "5dea1c54c1e7732065bd172bf5de1b376c0398de80d04f06e872e6913f85f08b"
+
+[[files]]
+file = "connectivity-1.19.2-4.6.jar"
+hash = "dc5f7fd763029549a0eef7215cbb34a1d4ae774d4cef5653ae824ac7bca6ff95"
+
+[[files]]
+file = "corpse-forge-1.19.2-1.0.10.jar"
+hash = "62f34981e79c548214fa9390e6dd7cf1e981f3d4a9d10145f0cf88788ff9a6b6"
+
+[[files]]
+file = "craftingtweaks-forge-1.19.2-15.1.9.jar"
+hash = "93cfc8a7fa967a9f136c08ba43ce116d0bfae060e836af2b5fd3d9a4f1b522da"
+
+[[files]]
+file = "create-1.19.2-0.5.1.f.jar"
+hash = "3f48f4add4833d410058d56f35e386ef5a0e9b1ab78079e4a8a3328ba1a6b17e"
+
+[[files]]
+file = "creeperoverhaul-2.0.9-forge.jar"
+hash = "c24ea63af040b28a2996a91a25fd5589bcddaa6f5ce2cf341bc6d0bdb7405e32"
+
+[[files]]
+file = "cupboard-1.19.2-2.1.jar"
+hash = "0996455707a71f3f2ce2fbea631daa78dc780f08b184a449b06a3b1e2dcc9e8f"
+
+[[files]]
+file = "curios-forge-1.19.2-5.1.4.4.jar"
+hash = "c4699fdb0c3ee6a1dddb1b65479ed0db5e3ab308f7204ce7044a0390c4eb8469"
+
+[[files]]
+file = "deathbackup-1.19.2-3.2.jar"
+hash = "4a7b0af2626f0e8e4421b540784797347cc9302fa8ee10b9a825a8e92331576b"
+
+[[files]]
+file = "does_potato_tick-1.19.2-3.7.0.jar"
+hash = "5ad9e9f188feeecf857943350e27020573cb6fef9208688372eb87358346bb60"
+
+[[files]]
+file = "domum_ornamentum-1.19-1.0.146-BETA-universal.jar"
+hash = "8a16af0c6a234a77d5d5dcf85bb2f1d29be9dfe0b22d814b48369fce582ef4e9"
+
+[[files]]
+file = "dragondropselytra-1.19.2-3.2.jar"
+hash = "ef9f4d014e15bed1f78bd409317a72b208b0b8a9fa07ef7bf48c2f0577d1cefd"
+
+[[files]]
+file = "edf-remastered-4.3.jar"
+hash = "1e216ce90e49e283e133daee2fb59a09cb3a93a515926c2215778f833b2da687"
+
+[[files]]
+file = "elevatorid-1.19.2-1.8.9.jar"
+hash = "b73c4697b73260ca4579e89443527d718abf726788b15ebdec4d6c4becac99b9"
+
+[[files]]
+file = "embeddium-0.2.16+mc1.19.2.jar"
+hash = "b017afbd57eeee099233bb3644a24e9a81d24e6d91eab7329a30b1938bab69cc"
+
+[[files]]
+file = "emi-1.0.30+1.19.2+forge.jar"
+hash = "0ec946b310895423bfa60f1c203d376920012ec3feb2ebfde0bf99dc4e9a663b"
+
+[[files]]
+file = "endrem_forge-5.2.1-R-1.19.X.jar"
+hash = "46d8367d83c55c88137184d466c5e88478928aa197c56175010334b8559be0aa"
+
+[[files]]
+file = "entityculling-forge-1.6.1-mc1.19.2.jar"
+hash = "14686b41719756b50dd8d90e4d1754f752e5c370c99a280df00ecc64baf63534"
+
+[[files]]
+file = "etched-forge-2.3.1.jar"
+hash = "70933f35e40c61af2a51f5b28b75e54bc7d88a7de5688194f26ff778f116cd3d"
+
+[[files]]
+file = "fastpaintings-1.19-1.1.2.jar"
+hash = "207439342c440514ed65714a0f6b21d29d2d4812011246962aa2baaaca906f15"
+
+[[files]]
+file = "fastportals-1.0.2-forge.jar"
+hash = "13debe5000097cc7fec507a9014b0718d5de81bdf4633297acc1f0ce6b6bc4f0"
+
+[[files]]
+file = "ferritecore-5.0.3-forge.jar"
+hash = "b9dc9b61a14e8326c6e464acef2851b9b08cf421880901a47a79c75fb6ab51e9"
+
+[[files]]
+file = "ftb-essentials-forge-1902.3.4-build.109.jar"
+hash = "f41ded130c3c2a2f6f49c64d4b419b4a48cc963cb47ecc32ae1e391f1a776ba5"
+
+[[files]]
+file = "ftb-library-forge-1902.4.1-build.236.jar"
+hash = "1ba0d7fa626ddb2e3c31e77e20b573ca79eb92e7667cca5b9a3e985fc22d1592"
+
+[[files]]
+file = "ftb-ultimine-forge-1902.4.1-build.90.jar"
+hash = "dbddbdc08c45d201cc1fb2c555f6393bb78a5424a19b73b0603008e466cc9899"
+
+[[files]]
+file = "geckolib-forge-1.19-3.1.40.jar"
+hash = "b4fd4aba01943d4cc62bba9e2d0fb41d85c871a95fad972fbb2248d3d826ea02"
+
+[[files]]
+file = "goblintraders-1.8.0-1.19.2.jar"
+hash = "882738e915e97fe135188938b55f3ad7bad40574273ab92b646295d926813b72"
+
+[[files]]
+file = "gpumemleakfix-1.19.2-1.6.jar"
+hash = "d527e19c379ccb16fd49ad5d20dcf3e672ef7d8ee49b6a59f8de2f00004d0a0e"
+
+[[files]]
+file = "ic2cuumatter-1.19.2-1.3.0.jar"
+hash = "66bb7a68b5fba274b352368339b4d9247ca3ac5e14bc906bdab9086f4215dc85"
+
+[[files]]
+file = "infernalmobs-1.19.2.4.jar"
+hash = "1841cdd3517dbd938e4ad5ce6df0aede1c097a3ed65123e986a83938d1670156"
+
+[[files]]
+file = "invhud.forge.1.19-3.4.7.jar"
+hash = "82d511123a27bcbdecb2b7e2b64f0829b1c366d4f47d7ed1995a1d018125b4fc"
+
+[[files]]
+file = "irons_spellbooks-1.19.2-2.2.0.jar"
+hash = "ca8dde011e48b61523670c5ecac4afd186d5cda1061cba3d643071012a9c0aa3"
+
+[[files]]
+file = "jei-1.19.2-forge-11.6.0.1018.jar"
+hash = "ef8040fbac289cfbe613603695102ba3b965813b7b7f0026d997a36a6355cb16"
+
+[[files]]
+file = "journeymap-1.19.2-5.9.7-forge.jar"
+hash = "e297f63205e3fe3649abc0dde0476e6003cf62d7605652fbaccf359c98ae37ce"
+
+[[files]]
+file = "keymap-0.8.0-beta.1+1.19.2-forge.jar"
+hash = "0b702bbb9c972865a0036527fa3f2e1ccf201c69e5a2bda174a4b3f5d2af04fa"
+
+[[files]]
+file = "kotlinforforge-3.12.0-all.jar"
+hash = "a42d10a97afd3313af57ecc88f531fffb048d89b2aa2fd01c586d67c161fdcca"
+
+[[files]]
+file = "lazydfu-1.19-1.0.2.jar"
+hash = "da249b9b4996d678ee8348b6be38ab927bba79f5c8c1a7fe0953c304a518a485"
+
+[[files]]
+file = "libIPN-forge-1.19-4.0.1.jar"
+hash = "5ea3122a79470e32ebcf3432934f24173d701b7c299573818d151e68d10d81ac"
+
+[[files]]
+file = "lootr-1.19-0.4.24.64.jar"
+hash = "c0671ed0489507d42fa78f38b6d13c58557c730deb8a7b28926fbfb6d8789175"
+
+[[files]]
+file = "majrusz-library-1.19.2-5.1.2.jar"
+hash = "0ffa26fa837dbeeba6fd4593f2bdec3e13dae0cdc51c211ef93efb06b9d9fb26"
+
+[[files]]
+file = "majruszs-difficulty-1.19.2-1.8.1.jar"
+hash = "dcf256c766204147b475f3b2cdfbc517d5186ee84aabebe3a27378037bc9aabc"
+
+[[files]]
+file = "mdecore-1.19.2-19.0.0.jar"
+hash = "40ad86b4f50b15b7ce2858d369a2f2e6f0a9910518fb84f09dae2e35225cbad9"
+
+[[files]]
+file = "memoryleakfix-forge-1.17+-1.1.3.jar"
+hash = "101c10e1ce81337a73900fbf0b32e0d6d527280d5fe9c04e6763697395d2b0c6"
+
+[[files]]
+file = "minecolonies-1.19.2-1.1.390-BETA.jar"
+hash = "4f31615d838c16ce25b6c30e601db54d76295efd6ec6c73e11a4a60fd26d87e8"
+
+[[files]]
+file = "mob_grinding_utils-1.19.2-0.4.50.jar"
+hash = "2391d00000283ad9ef06c64a4328b8b3475516adb2137712150ea6823c687d3c"
+
+[[files]]
+file = "modernfix-forge-5.11.1+mc1.19.2.jar"
+hash = "17a876070ce7a8e734dcf0bc5c76d98e9d4740289a4ddb92b5399c4b0d2c43c7"
+
+[[files]]
+file = "moonlight-1.19.2-2.3.5-forge.jar"
+hash = "74fedb65286722358c11fe4bd112fa9d9fc850c7eda8348f3d2c2fbad983576d"
+
+[[files]]
+file = "multipiston-1.19.2-1.2.25-ALPHA.jar"
+hash = "3d18166dce05aed06ddfaea557abe0ad25e0298367a8ac598ee4aaa912a4c9a4"
+
+[[files]]
+file = "mutantmore-1.19.2-early-access-1.0.7.jar"
+hash = "c98bacb3b36f547629811ac5ef44d33a8edff27b31628f0c1e8bbaeaef892753"
+
+[[files]]
+file = "mutil-1.19.2-5.2.0.jar"
+hash = "5711fe7ed0bfc2d7ce71a16a2cffa50bd9dd50774108f08c9777b1175d94b64d"
+
+[[files]]
+file = "netherportalfix-forge-1.19-10.0.1.jar"
+hash = "4bbf876bf8e38c66128fb840a77247c09d0ceaa5404d8224e0feddbb00c7032d"
+
+[[files]]
+file = "nomadictents-19.2.0.jar"
+hash = "674101b1f48b9bd4c94600e890bc325e56a53e9e2b85b457a46de9f0318ea5aa"
+
+[[files]]
+file = "notenoughcrashes-5.0.0+1.19.2-forge.jar"
+hash = "3ae3a26acc58cbd743eea39d3d21d47d230e114e1e8fdf20818a3ae4ee17565c"
+
+[[files]]
+file = "player-animation-lib-forge-1.0.2.jar"
+hash = "80fb5397ce77981d63e56cb4d6953c5657ad3b96783152ec2048a90568431a76"
+
+[[files]]
+file = "pluto-mc1.19.2-0.0.9.jar"
+hash = "dfe402bc55d676639fe4302e0128ee9548285dc86add91fd8c424469704002f4"
+
+[[files]]
+file = "pollen-forge-2.1.0.jar"
+hash = "b4fecf3d64634081538a1deae7351200a2f2210118e8e11d9d20553ea04230ad"
+
+[[files]]
+file = "polymorph-forge-0.46.5+1.19.2.jar"
+hash = "fa473dd65434671098c11eb5c859cdad18cfc131f1277f2f0fb2b8c61ba9d937"
+
+[[files]]
+file = "quickrightclick-1.19.2-1.0.jar"
+hash = "84f3c4b13e42575b72bd1bbe988dee2010ab2988f6c6b1a52e00e53e1b42ce8a"
+
+[[files]]
+file = "redirector-1.19.2-3.4.0-forge.jar"
+hash = "99fb93ff46e5b04e5357281384c9ae8e431612675906344595a0038984f731e3"
+
+[[files]]
+file = "resourcefulconfig-forge-1.19.2-1.0.20.jar"
+hash = "fd0ea4d97f7d0c6a10a5325f6fdd148c2c634e5d77a25a2de5d7ac6afcf49f5a"
+
+[[files]]
+file = "secondchanceforge-1.19-1.5.1.jar"
+hash = "cfaf49505225fa2af089916bfe816e71ba33cc5c66bfbe5f03888be116d4726e"
+
+[[files]]
+file = "secretrooms-1.19.2-1.2.0.jar"
+hash = "0dd5e72942fe01ba92132acd1f0608beeb306521efacf7fec45f8611ff733c73"
+
+[[files]]
+file = "smoothchunk-1.19.2-3.5.jar"
+hash = "5c83a862bb65c2130f645d70866b78aa17b7ced3b3623bf865b22dfab3124cd4"
+
+[[files]]
+file = "sophisticatedcore-1.19.2-0.5.111.525.jar"
+hash = "37b9931f9c8a61973f1e0cd22ac0362743985f0e2b5a1996b63da07404ca5a22"
+
+[[files]]
+file = "sophisticatedstorage-1.19.2-0.8.56.681.jar"
+hash = "2ac6fa3eb8c900b4b3cc62775a2c559e51410098214b557a27bb2aff3969dd56"
+
+[[files]]
+file = "starlight-1.1.1+forge.cf5b10b.jar"
+hash = "2bee70fa2bda5d7e938e421b94fbac8c00c6660927fa34e998a47f8f75e4c32d"
+
+[[files]]
+file = "structureessentials-1.19.2-3.2.jar"
+hash = "f7d8fec0538fab24adbdf48c350c47f54ee3f08b142a271521498eeab89d5fb5"
+
+[[files]]
+file = "structurize-1.19.2-1.0.676-RELEASE.jar"
+hash = "3f1b6d50118d7a507669ef48033be4d97fa917049b298bb5f33e0efdc5f21e12"
+
+[[files]]
+file = "tetra-1.19.2-5.6.0.jar"
+hash = "9f342613cd0053a1033d305b0355a46bd2fcae8db9bdd36927469503938b85ef"
+
+[[files]]
+file = "tetranichematerials-1.80-1.19.2.jar"
+hash = "72fc8bb275e5c3baf0a704411cd2d135319bf3038b40f20b9c8c548388427e01"
+
+[[files]]
+file = "textrues_embeddium_options-0.1.1+mc1.19.2.jar"
+hash = "d7a92d08b4ade7f1abc7e46d3d21bdf8dcf881128e4903638fd9e18c627ae9e0"
+
+[[files]]
+file = "theoneprobe-1.19-6.2.2.jar"
+hash = "df20e0bb050a4a887c3bf4409e54d11e1f5d1706d401463d5cbcc2797716b4b4"
+
+[[files]]
+file = "timestamp-chat-forge-2.4.0+1.19.1.jar"
+hash = "2b9310b324d4a42daa18e628af245d52bb2288f13576efafe676b3749f9a3852"
+
+[[files]]
+file = "towntalk-1.19.2-1.0.1.jar"
+hash = "edc1c4b870685db71a60425c40b7dede36bd8c15c5934ec10178ab130f6c87bf"
+
+[[files]]
+file = "xercapaint-1.19.2-1.0.1.jar"
+hash = "c924841435b37f1e6ef86458915716360a6c708e65196fd343a9f69fdb8e52ec"
