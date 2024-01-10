@@ -431,11 +431,6 @@ hash = "a56934d68da17cc57e425b9fba51f38ba18ae102c0c1b7ac0830e20313c9795c"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "e38757103068a36b560e33d45e401444a1b78db4a862dbe5c2dc1244d4e3fe3a"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "becfa26691b2d0c614d1d68ccf1dd7dba37d3e92752a636da0e1fba4b2a6e8e1"
 metafile = true
@@ -443,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "86cebca6d48ae03d07e8ea96b2b02bb2a3eadc1ff7a6f8fde064924723ab6b99"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "710975d27cc68e448e010aa2c26a6b3294fc539cc74a7ff6ab5eba1c04f95ae0"
 metafile = true
 
 [[files]]
