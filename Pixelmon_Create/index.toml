@@ -581,6 +581,11 @@ file = "journeymap/config/5.8/journeymap.minimap.config"
 hash = "f32d5764a4dbaa246403c5af1f278ab60ddcc2d33b9f80615c078d86fda2b9eb"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
 metafile = true
@@ -601,6 +606,21 @@ hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "e0e30a4e0d7f65fb27c9d8b395c49d6e8dca35040e7572b8382b698e1a3d5def"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
 metafile = true
@@ -608,6 +628,16 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "41295d49f30b7bd61aa18aadf7fef72c726f0290214f3948579f3e472f3239a9"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "ed663c20c4282a7eac5151a855fdf6de044e8095aeb0643d3f45540aa1807605"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
 metafile = true
 
 [[files]]
