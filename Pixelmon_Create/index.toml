@@ -1,8 +1,598 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/explorerscompass-client.toml"
+hash = "b0024c1663294a88e42f40659143af4613faf7c611d8c687f243206d713ca9f5"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "45a483d4bdd3281b69f4053217e2f6cd9c680edf4ad9de1e6ea8d00b1d721816"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/0_variables.txt"
+hash = "d0fadbdcf424108f493a3dad8bcf79bd1cb894529931b37617c69f6986b078ea"
+
+[[files]]
+file = "config/fancymenu/customization/day_0static_bg.txt"
+hash = "a275c528ae98fce814365d2071d55eb0503378951b4c2777df1e0aba660a306b"
+
+[[files]]
+file = "config/fancymenu/customization/day_1parallax_toggle.txt"
+hash = "3b8a9de62e9af72b4e9516ac6802103c0f0aefaa74c1d569257d2b9a8fca8515"
+
+[[files]]
+file = "config/fancymenu/customization/day_2pixelmon.txt"
+hash = "0ac6b2c51a02c821f4c3aa4911211edad091156429bada1a73b52d4deaa98a38"
+
+[[files]]
+file = "config/fancymenu/customization/day_3pet.txt"
+hash = "a51fe8df7ec97fc5ee5c41afb871652bf9edba4f73cb12fa3b07e27924757f53"
+
+[[files]]
+file = "config/fancymenu/customization/day_4interactables.txt"
+hash = "b6dcc194acb46f8898b1a226e5fc3aa57e33ab373e84cec0bc584176f25e3461"
+
+[[files]]
+file = "config/fancymenu/customization/day_4interactables_eng.txt"
+hash = "4da21da9dcda757cef0b8b1016e64ce9a00aea33bc5805d99a8bba0ab219a15c"
+
+[[files]]
+file = "config/fancymenu/customization/night_0static_bg.txt"
+hash = "b288865b61d358da2cb3f007e8ede144b9911eedc01c3a9f012b6b45648fa7dd"
+
+[[files]]
+file = "config/fancymenu/customization/night_1parallax_toggle.txt"
+hash = "cbe1ffd47b56a6438ce0dcc35c5de2501f6c5da2fbc9d7b7d48e8f2c7b0253cd"
+
+[[files]]
+file = "config/fancymenu/customization/night_2pixelmon.txt"
+hash = "81768c9dacb3269f1fb10ffae0348db1cce7e15566128741d362fbb7e6bd44ef"
+
+[[files]]
+file = "config/fancymenu/customization/night_3pet.txt"
+hash = "0217cff567febfcc1b6eec5511f350a83aa33a9e09eaf1f65a34dc113d1da4ba"
+
+[[files]]
+file = "config/fancymenu/customization/night_4interactables.txt"
+hash = "59e59377bba25bfd62e49b302066762211e3b25c82687232689e2625bb9e5d8f"
+
+[[files]]
+file = "config/fancymenu/customization/night_4interactables_eng.txt"
+hash = "eb925a92b5b0e8aaef5052147c3eefa47e772b01bdef39d5aaed13f6acda5a2d"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/background.png"
+hash = "1e8236186aba56638cb2f56dc707f9daffe5466ebe80ac9556d23bfa83b72f8a"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/accessibility.png"
+hash = "91e10aeeb99e40890ab6c66f8c03d43fd3039895e4a7395819e4518b327f4d81"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/accessibility_sel.png"
+hash = "06ef74923ec2849f6317570d91a24974fb416e999adf2ea5c67b0e2f004d72c4"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/discord.png"
+hash = "a3fe8cfc5a39a81f24bbed52e86b6994b11ccbc4a26ba4b9ccd920faf96083ad"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/discord_back.png"
+hash = "a72b93daf3836190ac640995793092f77cf00ce229fdb279714de7c1481b5ed7"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/discord_sel.png"
+hash = "055411593472a7a1d5393fcec173f5f9ef8fabf4e08d837758688a8751d7f515"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/discord_smol.png"
+hash = "3b8c9accaea1dfef8a60e3c5952ba431996b5af9889e63ebbf86fda67a0efd60"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/discord_smol_sel.png"
+hash = "8c55e20432a3664f22000f4491f51a1e006596b1ba673ecdfb7d93f8eeda1c11"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/discord_text.png"
+hash = "1adb9ef99f0efe0430afbefb3eead993c6516b2694d71172363edba572628e03"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_customize_player.png"
+hash = "bb79267dcf92f0839f798372ae9cbe20f6caa359a5eafa0e7f289b6eb48e8b94"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_customize_player_sel.png"
+hash = "0560b6d1f57653b6cabd92b2fb052ba74df80920f6dbb53ac7d7acda2f832fbd"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_customize_player_text.png"
+hash = "3de1f222b5437573f3b23b37fc727f5203840e3243443fbef0f0d0f1ade8ba1f"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_nodecraft.png"
+hash = "1a19e424746b3607ad422ef43eebd65e06147074d4bd00f755470761a9dc7805"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_nodecraft_text.png"
+hash = "c088f6fd284e87865490fee0bbe4919ae44b1ca9473c1ee505389e38e6744731"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_nodecraft_text_sel.png"
+hash = "965605e4f7868a7eeef7cf49a81b34515737e615f1557ae41a451f4b5480531c"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_team.png"
+hash = "fe59552d2265692676383eb8bef19593fc85a434243048227e889384d364ff53"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/extra_team_sel.png"
+hash = "488998ea59442813774e7875331a916ed7035f8b36198e431865413d9e328e20"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/fallback.png"
+hash = "ffd9b3283afeb67bc8d6cc8a4881a7c05e1cfdc37176e0bfb9b46ecee0f2381a"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/fallback_sel.png"
+hash = "d172201a9daabffbe091d9928064d878fc0886b66c6694c90c3a03f04376c943"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/files.png"
+hash = "db88e8763baecd46e60fde64cda912f9d501227f9425a5a3c72b3a3e90ae1de2"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/files_sel.png"
+hash = "9f34721b099dcbacdae00a4b254d8ed54408308b38d38281ed0596619b06f092"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/files_text.png"
+hash = "80e89c79eff3ed46295016aaf2975a542b56c193ec3a20c3a53177630355489b"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/lang.png"
+hash = "93f7585f2c9fdc194b1ca9c6a73f2d800e2b599d4caf742b91f5f4e1b440cf74"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/lang_sel.png"
+hash = "d73a8c5c8633065eaea67baf3198ba59c972d2c8b78c5ea3e01d1dfdce9b34b2"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/lang_text.png"
+hash = "446d94ccd7a08166444ee94a64661147c7c5d3fc3f30c6f509c08ac819dabb24"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/logs.png"
+hash = "edf3714a1d9c69a1f1bb0cd99167067290bdb75e9fe08e44112f8eb85be8e39f"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/logs_sel.png"
+hash = "e30fdfafbfc443c6caf3f7ebc5adbdb705299e55652f20a7f306d137a116a9e9"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/logs_text.png"
+hash = "49dcf8923cd987b7f495e4de9a6a2923d6af392410dd98539b0ff8464f410fc4"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/main_empty.png"
+hash = "1e3effaf979e1c167eab1c494f62a84fa537d7ee4b744c240db4867b6fc5b51d"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/main_empty_sel.png"
+hash = "2fed4145b0a059b805c7643e3de16d3b2e341b1ff167324ebf4e3a41f03a9256"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/main_multi.png"
+hash = "d2fef9b5f3b1faabcdef48e1e10a42338e63e1004d01671730758a10e93e1530"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/main_options.png"
+hash = "55d581a3facd0b592dfa7bd833559a59b992dc22c9c67880895647cd73c4de57"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/main_quit.png"
+hash = "fe65f353a84f1695861dfcc09226a792579f474993c918af30c374cec5d026a6"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/main_single.png"
+hash = "e37f1933b823a71110b2bd0192b2e5179ef4d05909e5ce704abe80fffe896035"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/parallax.png"
+hash = "3d13a15e2822febb5819d4f8609a082d56c4a59cb2a286063696aa0aaba5900b"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/parallax_sel.png"
+hash = "b50f96ad38a37c1503b9da25917f531d5f7c9ec810a2a6bdb2d8801fa681c06c"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/pointer_anim.gif"
+hash = "a799d52578bed22d74011a5a9db01012e2fb0af9f73a6b42ab8ecbab274b148b"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/web.png"
+hash = "16566f9907a1223b3839ee8302bc0938412735a8549116a729b1330cef375989"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/web_sel.png"
+hash = "7154091d3efac46b4e605efc19e4aa5b0edcb9c1b0935a1dc1b7f07dd44e7908"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/web_text.png"
+hash = "f74679744ce45015c4ed24cabc6e9905da289afb2ab7887011c0ecc9d90e8ab9"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/wiki.png"
+hash = "bb1af9095be6425c4068c61f67b448da96ab3e3da68983a5c935e2872d3ba6ad"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/wiki_sel.png"
+hash = "3c605c902947022ee925f34219b8838436b8bb437648ce52fc2c80354ccedba8"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/buttons/wiki_text.png"
+hash = "8ac4500b317b1801cf060a27cb74a64893e8ace4fe486a5018ea454ad69e9271"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/fall_day.png"
+hash = "a009c7c57f11bbd29f1fce33bfff52ee14e7bdb9ead3f4d3f6d01ca22a38f111"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/fallback_background.png"
+hash = "9e68a1dc08a9cb2452135095e02be3d569684f44e21bcfd18fa4b692516e3716"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/foreground.png"
+hash = "b43675366c022386747a6a7bff236307f982d5141fdc95b423353c8286497f60"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/logo.png"
+hash = "fd92eda81e41d8463a378c50b3743e372ecff491491d001bfa5dc72e3cabc1de"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/lower_bar.png"
+hash = "a8c8b59f0947c70ad073e1ed8c6a722922ddc3f84b1ae67a6b559d93478561de"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/main_menu_back.png"
+hash = "a8b52a90bca3f4640a3d33b3d0eec640c62289dc79ca988d2ea341f8b486f3ca"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/midground.png"
+hash = "13e675ca5827a6f30edd76e719336d08b3df5d24d43047259cbc3b05b703e2f1"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/people/flame_crop.gif"
+hash = "09c5aea1b78628a5dbd83e8578362052f7a08c165f58fe4e2942e0fae31ae57a"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/people/quag_eyes.png"
+hash = "a9259dccbdf4ebb104dee5e79b0d002a5f27f746d77f37758ff30637f0b6c896"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/people/quag_forward.png"
+hash = "4d5700bf113b5371e9feeec895331c1011e3095de19b284ada27338a28cfb21b"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/people/quag_left.png"
+hash = "58530380029c6d20ee8d863359746681dbf14aff2eca0c02462ef9b98a185906"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/people/quag_right.png"
+hash = "38d773cd6cda32e289e49d4ab79465253bec3c07d89201f4fed30509cc989bac"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/people/quag_rightmost.png"
+hash = "db0bfe85f0a6c9c802c30f0ec5430481555ac71312f02ecd4ff09f8720f4d566"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/placeholder.png"
+hash = "7d00e5a92c79734ae3c76f35d808ff58bd9fe2f954147b8e9713a5d4d1dfb602"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/sky.png"
+hash = "e53c873b9e025bc8e5a5b2e01c8b5b956637884d66fe752250f7b9cf397052bd"
+
+[[files]]
+file = "config/fancymenu/resources/day/fall/static.png"
+hash = "0151746fc307950a1d9dfd83b9c38001ea18e031c0e9e72b15c1e3d7de6f2f87"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/background.png"
+hash = "6e2c579740f06f6bde1cfc421614399d8448efcf1d3d8ab4309f85da7f16bed3"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/accessibility.png"
+hash = "91e10aeeb99e40890ab6c66f8c03d43fd3039895e4a7395819e4518b327f4d81"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/accessibility_sel.png"
+hash = "06ef74923ec2849f6317570d91a24974fb416e999adf2ea5c67b0e2f004d72c4"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/discord.png"
+hash = "a3fe8cfc5a39a81f24bbed52e86b6994b11ccbc4a26ba4b9ccd920faf96083ad"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/discord_back.png"
+hash = "a72b93daf3836190ac640995793092f77cf00ce229fdb279714de7c1481b5ed7"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/discord_sel.png"
+hash = "055411593472a7a1d5393fcec173f5f9ef8fabf4e08d837758688a8751d7f515"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/discord_smol.png"
+hash = "3b8c9accaea1dfef8a60e3c5952ba431996b5af9889e63ebbf86fda67a0efd60"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/discord_smol_sel.png"
+hash = "8c55e20432a3664f22000f4491f51a1e006596b1ba673ecdfb7d93f8eeda1c11"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/discord_text.png"
+hash = "1adb9ef99f0efe0430afbefb3eead993c6516b2694d71172363edba572628e03"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_customize_player.png"
+hash = "bb79267dcf92f0839f798372ae9cbe20f6caa359a5eafa0e7f289b6eb48e8b94"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_customize_player_sel.png"
+hash = "0560b6d1f57653b6cabd92b2fb052ba74df80920f6dbb53ac7d7acda2f832fbd"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_customize_player_text.png"
+hash = "3de1f222b5437573f3b23b37fc727f5203840e3243443fbef0f0d0f1ade8ba1f"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_nodecraft.png"
+hash = "1a19e424746b3607ad422ef43eebd65e06147074d4bd00f755470761a9dc7805"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_nodecraft_text.png"
+hash = "c088f6fd284e87865490fee0bbe4919ae44b1ca9473c1ee505389e38e6744731"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_nodecraft_text_sel.png"
+hash = "965605e4f7868a7eeef7cf49a81b34515737e615f1557ae41a451f4b5480531c"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_team.png"
+hash = "fe59552d2265692676383eb8bef19593fc85a434243048227e889384d364ff53"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/extra_team_sel.png"
+hash = "488998ea59442813774e7875331a916ed7035f8b36198e431865413d9e328e20"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/fallback.png"
+hash = "ffd9b3283afeb67bc8d6cc8a4881a7c05e1cfdc37176e0bfb9b46ecee0f2381a"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/fallback_sel.png"
+hash = "d172201a9daabffbe091d9928064d878fc0886b66c6694c90c3a03f04376c943"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/files.png"
+hash = "db88e8763baecd46e60fde64cda912f9d501227f9425a5a3c72b3a3e90ae1de2"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/files_sel.png"
+hash = "9f34721b099dcbacdae00a4b254d8ed54408308b38d38281ed0596619b06f092"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/files_text.png"
+hash = "80e89c79eff3ed46295016aaf2975a542b56c193ec3a20c3a53177630355489b"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/lang.png"
+hash = "93f7585f2c9fdc194b1ca9c6a73f2d800e2b599d4caf742b91f5f4e1b440cf74"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/lang_sel.png"
+hash = "d73a8c5c8633065eaea67baf3198ba59c972d2c8b78c5ea3e01d1dfdce9b34b2"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/lang_text.png"
+hash = "446d94ccd7a08166444ee94a64661147c7c5d3fc3f30c6f509c08ac819dabb24"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/logs.png"
+hash = "edf3714a1d9c69a1f1bb0cd99167067290bdb75e9fe08e44112f8eb85be8e39f"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/logs_sel.png"
+hash = "e30fdfafbfc443c6caf3f7ebc5adbdb705299e55652f20a7f306d137a116a9e9"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/logs_text.png"
+hash = "49dcf8923cd987b7f495e4de9a6a2923d6af392410dd98539b0ff8464f410fc4"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/main_empty.png"
+hash = "1e3effaf979e1c167eab1c494f62a84fa537d7ee4b744c240db4867b6fc5b51d"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/main_empty_sel.png"
+hash = "2fed4145b0a059b805c7643e3de16d3b2e341b1ff167324ebf4e3a41f03a9256"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/main_multi.png"
+hash = "d2fef9b5f3b1faabcdef48e1e10a42338e63e1004d01671730758a10e93e1530"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/main_options.png"
+hash = "55d581a3facd0b592dfa7bd833559a59b992dc22c9c67880895647cd73c4de57"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/main_quit.png"
+hash = "fe65f353a84f1695861dfcc09226a792579f474993c918af30c374cec5d026a6"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/main_single.png"
+hash = "e37f1933b823a71110b2bd0192b2e5179ef4d05909e5ce704abe80fffe896035"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/parallax.png"
+hash = "3d13a15e2822febb5819d4f8609a082d56c4a59cb2a286063696aa0aaba5900b"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/parallax_sel.png"
+hash = "b50f96ad38a37c1503b9da25917f531d5f7c9ec810a2a6bdb2d8801fa681c06c"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/pointer_anim.gif"
+hash = "a799d52578bed22d74011a5a9db01012e2fb0af9f73a6b42ab8ecbab274b148b"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/web.png"
+hash = "16566f9907a1223b3839ee8302bc0938412735a8549116a729b1330cef375989"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/web_sel.png"
+hash = "7154091d3efac46b4e605efc19e4aa5b0edcb9c1b0935a1dc1b7f07dd44e7908"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/web_text.png"
+hash = "f74679744ce45015c4ed24cabc6e9905da289afb2ab7887011c0ecc9d90e8ab9"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/wiki.png"
+hash = "bb1af9095be6425c4068c61f67b448da96ab3e3da68983a5c935e2872d3ba6ad"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/wiki_sel.png"
+hash = "3c605c902947022ee925f34219b8838436b8bb437648ce52fc2c80354ccedba8"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/buttons/wiki_text.png"
+hash = "8ac4500b317b1801cf060a27cb74a64893e8ace4fe486a5018ea454ad69e9271"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/fall_large.png"
+hash = "83c6138ac59c3ad1edb2ab27406d41bd25dfc8c72516a73cfe0d1f7a41d06952"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/fallback_background.png"
+hash = "9e68a1dc08a9cb2452135095e02be3d569684f44e21bcfd18fa4b692516e3716"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/foreground.png"
+hash = "b0f232342bab83311bf86c57fb8b4ea9c9164aa5497867e680cb75142a235a7e"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/logo.png"
+hash = "fd92eda81e41d8463a378c50b3743e372ecff491491d001bfa5dc72e3cabc1de"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/lower_bar.png"
+hash = "a8c8b59f0947c70ad073e1ed8c6a722922ddc3f84b1ae67a6b559d93478561de"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/main_menu_back.png"
+hash = "a8b52a90bca3f4640a3d33b3d0eec640c62289dc79ca988d2ea341f8b486f3ca"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/midground.png"
+hash = "4d500106e5210da00edf458faf436190545fc33fdab8017d268ff618813b69ff"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/people/flame_crop.gif"
+hash = "09c5aea1b78628a5dbd83e8578362052f7a08c165f58fe4e2942e0fae31ae57a"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/people/quag_eyes.png"
+hash = "a9259dccbdf4ebb104dee5e79b0d002a5f27f746d77f37758ff30637f0b6c896"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/people/quag_forward.png"
+hash = "4d5700bf113b5371e9feeec895331c1011e3095de19b284ada27338a28cfb21b"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/people/quag_left.png"
+hash = "58530380029c6d20ee8d863359746681dbf14aff2eca0c02462ef9b98a185906"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/people/quag_right.png"
+hash = "38d773cd6cda32e289e49d4ab79465253bec3c07d89201f4fed30509cc989bac"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/people/quag_rightmost.png"
+hash = "db0bfe85f0a6c9c802c30f0ec5430481555ac71312f02ecd4ff09f8720f4d566"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/placeholder.png"
+hash = "7d00e5a92c79734ae3c76f35d808ff58bd9fe2f954147b8e9713a5d4d1dfb602"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/sky.png"
+hash = "e53c873b9e025bc8e5a5b2e01c8b5b956637884d66fe752250f7b9cf397052bd"
+
+[[files]]
+file = "config/fancymenu/resources/night/fall/static.png"
+hash = "3d581eff89f31b2ea656e23bf5642bc0e3fed46ce2386e027903cb691a0d00f7"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "b529b87ff572f2266b31fb77e187c9597cb9c3b7ed901bba312079b7c4a9da41"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "6799e7c2f903748f424735463ee213e1775f29292a402a894157d5ba58f150b8"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.minimap.config"
+hash = "f32d5764a4dbaa246403c5af1f278ab60ddcc2d33b9f80615c078d86fda2b9eb"
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "cf6a575860bb0c9ce92aa33ccf881a6a57363914f3c83487e9743f063fef7a91"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "dd437802527b851399f13e40accc0b499e58210906fdde93a0c92c4394bc1a92"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "b1af162f55b4261d8868e177b9841c1988208e5f1156c75ed72067d2b251d1fb"
 metafile = true
 
 [[files]]
@@ -11,6 +601,35 @@ hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
 metafile = true
 
 [[files]]
-file = "the-pixelmon-modpack.pw.toml"
-hash = "93afa258957f585cfa80e88150741b2fb2635348f06f24679bd9b8bde8cdd2b8"
+file = "mods/journeymap.pw.toml"
+hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "41295d49f30b7bd61aa18aadf7fef72c726f0290214f3948579f3e472f3239a9"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "0e91cfb9af96c979c424cdeba8c9487e4d82af768a40362074698bf5449fc253"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "6fb5a056321f7436e6dd151b962412fa86a666c421a7a1b76ca42e6d17965cc7"
+
+[[files]]
+file = "resourcepacks/the-pixelmon-ost-by-chris-geddes.pw.toml"
+hash = "f35a6467e73448fed2fcf0aa2770841aca7447310989aecd87d1cbb7ea120963"
 metafile = true
