@@ -1,0 +1,13 @@
+name = "Brutal Bosses - Custom Bosses[Forge/Fabric]"
+filename = "brutalbosses-1.19.2-6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c35b521d91c7a957e4241a7f8c0dc2d332198d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4561875
+project-id = 557999

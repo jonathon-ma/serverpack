@@ -1,0 +1,13 @@
+name = "IC2C Extras"
+filename = "IC2CExtras-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "161185d192e3568c11ace1d61280ff0228712dfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4876577
+project-id = 302906

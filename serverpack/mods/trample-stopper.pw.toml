@@ -1,0 +1,13 @@
+name = "Trample Stopper"
+filename = "TrampleStopper-3.8.1-build.35+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "741cf5ba2e8e4572a899a54ab0abd6f64da4e477"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3981408
+project-id = 297028

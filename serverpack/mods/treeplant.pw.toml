@@ -1,0 +1,13 @@
+name = "HT's TreePlant"
+filename = "TreePlant-1.19.1-0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f491fc66f43b1e165ae1bdd520b1353396bf9514"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3912115
+project-id = 433969

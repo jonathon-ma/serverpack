@@ -1,0 +1,13 @@
+name = "IC2 Classic"
+filename = "IC2Classic-1.19.2-2.0.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4e17b4833de9220ef9b1831dc4b0a4d3ac34891"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4879119
+project-id = 242942

@@ -1,0 +1,13 @@
+filename = 'mutil-1.19.2-5.2.0.jar'
+name = 'mutil'
+side = 'both'
+
+[download]
+hash = '4b4e25b5b1ae50ee1efc4fc9627f8a6b4df221f1e9b7944857dad91ed1e5a66884d76fa10d5d528a2975f4eb0b24ea991df003849b5ddef86cda59f315bc3b29'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HWHl8Evb/versions/1cVegazl/mutil-1.19.2-5.2.0.jar'
+
+[update.modrinth]
+mod-id = 'HWHl8Evb'
+version = '1cVegazl'

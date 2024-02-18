@@ -1,0 +1,13 @@
+name = "Quick Right-Click"
+filename = "quickrightclick-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62a677706d71b65e2077416970705cc90be61aac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4608593
+project-id = 880596

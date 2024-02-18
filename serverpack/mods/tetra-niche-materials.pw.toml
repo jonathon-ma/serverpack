@@ -1,0 +1,13 @@
+name = "Tetra Niche Materials"
+filename = "tetranichematerials-1.80-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52a2daae6c91abf3d6353e42bd5d66e3a9728f06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4964091
+project-id = 901274
