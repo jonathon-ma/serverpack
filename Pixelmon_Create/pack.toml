@@ -1,0 +1,13 @@
+name = "Pixelmon Create"
+author = "grainsoup"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5a923fd5250d4f962e4a65c4528042df8721a5e894b1108e79d494919c649a4"
+
+[versions]
+forge = "36.2.41"
+minecraft = "1.16.5"
