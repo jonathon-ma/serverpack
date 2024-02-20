@@ -581,6 +581,11 @@ file = "journeymap/config/5.8/journeymap.minimap.config"
 hash = "f32d5764a4dbaa246403c5af1f278ab60ddcc2d33b9f80615c078d86fda2b9eb"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1e7d9b9a774ad5979818555362dbdf8b2600317c036a0995024ee24d719e34e0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8dcfdd556df68cc338bdd9436a4e8face08a08cb114bffc5c66b43c71d80ddbc"
 metafile = true
