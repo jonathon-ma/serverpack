@@ -1,0 +1,13 @@
+name = "Forge Carpet"
+filename = "Forge-Carpet-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca1054a33c2d3e5e68815b906b1adb40e9c5319a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3527542
+project-id = 547361

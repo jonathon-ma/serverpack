@@ -616,6 +616,11 @@ hash = "fdde87c3450325f15a72576976f305ca943953650b4c2b63e52186ad54c50307"
 metafile = true
 
 [[files]]
+file = "mods/forge-carpet.pw.toml"
+hash = "8902f0a11226e4d12181b7c5578237e7cf5c7c556b192f02712c6f873f2f1525"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
 metafile = true
