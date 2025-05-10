@@ -11,11 +11,6 @@ hash = "2747494442f970295c26b45be32f52af75a031f93340a60ca19956b8666ed518"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "b8cee0f8122bf1f3b41f10f1d71b71500f336c2b0d5bf5d6d859f9e4ec595edf"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b679e50372ae3cd04e1e7fcae590db7fc7b36574976ace1c719349793927875a"
 metafile = true
@@ -66,11 +61,6 @@ hash = "602b88ce357d38bb893619c346af444e060949e327df70728a6d3656959ed434"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "6e51c2ecd71b6a311042c87ea557db4b3c4dd82e4dce0a4703d083007842306b"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "edd9c64b6fe934bc0a964588c15da7d944a9b9128ac02fa9b814cc73f37bf13c"
 metafile = true
@@ -83,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "030a0496382b5f52cec16cf01c12215b5372e875b4b5dc16b6c663f04216e6f8"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "d64a2315243022a4baa65751553c239e72180b81162156ebacf6a0f52ae25db0"
 metafile = true
 
 [[files]]
