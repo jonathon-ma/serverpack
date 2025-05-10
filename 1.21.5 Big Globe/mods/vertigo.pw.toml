@@ -1,0 +1,16 @@
+filename = 'Vertigo-1.1.2-MC1.21.5.jar'
+name = 'Vertigo'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e4d7a643e1d57326e77342ef2c0b86d164bbd578a85e19f382ec95eff9cc5fdb7c3b9156437f61782d99999e9bb8849b44bd0ad6d668d863995794a2d8cf6a97'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4LzgJp1j/versions/RGRKQp5o/Vertigo-1.1.2-MC1.21.5.jar'
+
+[update.modrinth]
+mod-id = '4LzgJp1j'
+version = 'RGRKQp5o'

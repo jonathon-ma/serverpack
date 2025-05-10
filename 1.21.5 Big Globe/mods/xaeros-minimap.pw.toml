@@ -1,0 +1,16 @@
+filename = 'Xaeros_Minimap_25.2.5_Fabric_1.21.5.jar'
+name = "Xaero's Minimap"
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '518562106c6f8d3d071fcd7ccf5b5bdb8d48eef6030403726652d8d17e4e6db05a488bf2a853db9e2b984b8ce208a6bf62d3b89734bff2921d06592f48c76a7b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/U2IMRhfP/Xaeros_Minimap_25.2.5_Fabric_1.21.5.jar'
+
+[update.modrinth]
+mod-id = '1bokaNcj'
+version = 'U2IMRhfP'
