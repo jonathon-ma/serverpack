@@ -1,0 +1,13 @@
+name = "1.21.5 Big Globe Server"
+author = "grainsoup"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e832445e4878b10fba3ed0b6840086a75e72290629d2a45c4fe42f646b035aeb"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.5"
