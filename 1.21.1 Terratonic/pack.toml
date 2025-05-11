@@ -1,0 +1,13 @@
+name = "1 . 21 . 1 Terratonic"
+author = "grainsoup"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4cbf7920b08b1adbba903dd08ab04fb173ad9bf3d350c73e923edb6c80ffa304"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.170"
