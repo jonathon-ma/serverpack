@@ -1,0 +1,16 @@
+filename = 'etched-4.0.0.jar'
+name = 'Etched'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9e7906458ef70bda0d7cc87395ecfc18d248c20a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5998004
+project-id = 491890
