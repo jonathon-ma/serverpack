@@ -1,0 +1,16 @@
+filename = 'jeed-1.21-2.2.18.jar'
+name = 'Just Enough Effect Descriptions (JEED)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25b91ba4cf8c25e4f56fb5144f70f6defd618a61e00809a816a0d5a15ec275e82112eb57fb83fc7cf457f32a738247a36a52a98dd8fd4465978b8b8e86215fe0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EO27GKs1/versions/VSSPHpel/jeed-1.21-2.2.18.jar'
+
+[update.modrinth]
+mod-id = 'EO27GKs1'
+version = 'VSSPHpel'

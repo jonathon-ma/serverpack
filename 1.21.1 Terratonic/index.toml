@@ -76,6 +76,11 @@ hash = "a9f56e005c2b6823c58c78f94041b28dca9c4d42b556b4995a7f98ba1c598f27"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "8959339f588e0db4259f4edf8e8682555525399a209419ff20bbf022498923d7"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "18f45418330c8e54cb24609f734fa47b3c6e4fdbdd89d09371f36b9a1d40b466"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "e9018d86272848c3c2f03b3deff31644f9bf4b4e88e9e2308c362432c42cfae8"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "7a79851d81eb76cb1db60813968223ed064423fa399c993bc74d335ca2dbd736"
 metafile = true
 
 [[files]]
@@ -196,6 +206,11 @@ hash = "2c9095bce7cba9697133412e1ca094e4c5aacde6c17a5f6f45dc73aa9967192b"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "44d480546a1408a24c9ff7a646c273d40d753e42e44a39ed05b0d30d2d430ea3"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "6f2f842c13b0cc7d84950b487aeda8dd5407d0654d6df4afc2369b901bd21641"
 metafile = true
@@ -266,8 +281,38 @@ hash = "78acab855b17e8aeb9a0467da640d50010a0bd659fd48891b03712614d8451a4"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "f4b555235f58671898daa9b9966dea5b4dd40c2b738f46ca3c2306bd947f6065"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "1b7376722480d4594d60e92cd5ecd504af59d863c0bcde43ab7c1c7ebf81f974"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "c963595739cc2292fbd87ce18546bc1fcb179dc89febcd5b498f1a513caa19b7"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "80b0c5881c40d28cc9fff61c1e842630f29b29ae57cecf84dd09b8147146a844"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "8f9b874f10f9364eb9e546bad7a0d868dff086855a5958195755cdb496d6190a"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "deae90c04b4c04e7106ee5ea2d55916ad8782b2a353589ee1a0e12699690d266"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "19945ccc7b97c923793ce5472aceece77175aced5602882511563ce195cb9016"
 metafile = true
 
 [[files]]
@@ -338,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/passive-shield.pw.toml"
 hash = "ee33facaff1453a5d2823e319d1cabcd8cade5188cce36f320763900996eb546"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "63b07a6f61dd43eb7bafdccdd7cf949382af71c36412a4ad32e3484a0554b1ec"
 metafile = true
 
 [[files]]
@@ -426,13 +476,13 @@ hash = "d33ee8b19a5839b67ae433e3120e8654520a3ce50cac403c6a2080afcb23356c"
 metafile = true
 
 [[files]]
-file = "mods/txnilib.pw.toml"
-hash = "266eafcb0738cdc032ee32218b2ca7fc6924b2b2be38cba2b48f11e07d7ce00b"
+file = "mods/treechop.pw.toml"
+hash = "03a1785eb6348a2a5fad70594c3f854f37f29cf56324801f48fda258c8e0f065"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "4c7703b9cd8a7b6efc4c68431f49c53bf25d6ca6fa3603ebccd4c5e468169017"
+file = "mods/txnilib.pw.toml"
+hash = "266eafcb0738cdc032ee32218b2ca7fc6924b2b2be38cba2b48f11e07d7ce00b"
 metafile = true
 
 [[files]]
