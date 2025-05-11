@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9cdf5527e66d9b086fc36e5ea49ca723ca778499bdb41f291ff25102fd814f0f"
+hash = "c4f2a017ddbcc44e21ab9064692be8498bc6a6ea86940f23f7e58c934aaea534"
 metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "a918339530943285b3b822f4f90cc760cb8568e98552f3db0bc8b1c0bd646c73"
+hash = "2a4b14e7d47894a14c6487e144d83b6ea0c3ce95697d826340b43c15c099481b"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "49247170d0b2d7a5ea01910ef9f91b36eb938d9e528841d22375641be8a68ab9"
+hash = "0b65b0dba621cfb3f3a17c68c2344a84f55f7e47dbbb073cdfa13435a4e69443"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "e1e91994b3bcc7be0ba80707a9ef360aed984a5b6ea3636a2db4e9c7980a0db1"
+hash = "1b42a1ec752e888752ed19f321b7fd9710f485efd9077b1df68c18a2a6b1ea7e"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
-hash = "89f4ffecf6ed1c041a9a1823e352cd67f2ff16852934af375942527401eb9412"
+hash = "4ef93c7d5e2b924dc688223d3158b86f9d6a28e1cabcd9342c674f79f454471f"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "fc23aa95ff09587a033411be0232b0dab6f9d73f8c2bc9a9c697fcd3b34b0b0a"
+hash = "6ead914704cb9b0d0247fb56816ad6e32469654004eeb1962675f8b83ecee985"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "5a9fa3af10bf40452e47d9cc288b767fc92935f3e5d34426c351f633624b6dfa"
+hash = "aa7201f1a067843e6117933433064610397f03a8c5cb8965ac20c88ea03dd222"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/stitch.pw.toml"
-hash = "8af3d4c1bba018680b2c8919166a79a17fab6af37e303395e497cea3d3233e28"
+hash = "7b0c177837db7f41acfc20192fa33be910d08fe167007f207b16ebd8339d9ca0"
 metafile = true
 
 [[files]]
