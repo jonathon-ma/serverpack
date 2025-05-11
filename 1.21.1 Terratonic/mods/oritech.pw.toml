@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'alpha'
 hash = '0792fa362e5deccc96df22fb0b821d657f3e088a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/oritech/download/6511863'
 
 [update.curseforge]
 file-id = 6511863
