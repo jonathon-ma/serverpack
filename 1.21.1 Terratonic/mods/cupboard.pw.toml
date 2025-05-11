@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'release'
 hash = '8f6eb497f60fb6a2cf2b276113d33e61b9a5c2a5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/cupboard/download/6078150'
 
 [update.curseforge]
 file-id = 6078150

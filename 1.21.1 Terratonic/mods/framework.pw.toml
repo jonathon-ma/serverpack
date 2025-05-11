@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'beta'
 hash = '774da4b0c43a66d0888be4cf4e0a01b7a6899b1b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/framework/download/5911998'
 
 [update.curseforge]
 file-id = 5911998

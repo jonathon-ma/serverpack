@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'beta'
 hash = '2110425767b65d4737a4e98871c37ffb305931c2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/backpacked/download/5852973'
 
 [update.curseforge]
 file-id = 5852973

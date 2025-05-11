@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'release'
 hash = '9e7906458ef70bda0d7cc87395ecfc18d248c20a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/etched/download/5998004'
 
 [update.curseforge]
 file-id = 5998004

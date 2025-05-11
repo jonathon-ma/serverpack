@@ -9,7 +9,7 @@ x-prismlauncher-release-type = 'release'
 hash = '36b80d2340718b22432e2761142cb4bdb2629a42'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://www.curseforge.com/minecraft/mc-mods/stitch/download/5629395'
 
 [update.curseforge]
 file-id = 5629395
