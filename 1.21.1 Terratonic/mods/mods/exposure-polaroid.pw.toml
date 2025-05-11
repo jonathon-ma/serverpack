@@ -1,0 +1,16 @@
+filename = 'exposure_polaroid-neoforge-1.21.1-1.1.1.jar'
+name = 'Exposure: Polaroid'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1796ba7c305e8a890c52cde5bae328cb9713b72f51fb5b51b67f540a7dcdbcf9fa17a8495c512321a077dde2c862a07e11707f1f28ffd3f183be3ee6a0e7aa24'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WEWiqYkW/versions/32Ey4mE7/exposure_polaroid-neoforge-1.21.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'WEWiqYkW'
+version = '32Ey4mE7'
