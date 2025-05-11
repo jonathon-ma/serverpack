@@ -1,16 +1,13 @@
-filename = 'architectury-13.0.8-neoforge.jar'
-name = 'Architectury API'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Architectury API"
+filename = "architectury-13.0.8-neoforge.jar"
+side = "both"
 
 [download]
-hash = '6ca11d3cc136bf69bb8f4d56982481eb85b5100b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = 'https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/5786327'
+hash-format = "sha1"
+hash = "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5786327
 project-id = 419699
