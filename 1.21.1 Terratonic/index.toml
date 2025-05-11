@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "e2c4d1cc08eb867ecd93b470942cedc051a9c305bdbaf6e6f710a108dbf38b59"
+hash = "95f785845db4f956809017f97b6644843b4c7cee91d4e56eb049677dcbcbc3a1"
 metafile = true
 
 [[files]]
