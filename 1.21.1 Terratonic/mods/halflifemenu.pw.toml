@@ -1,0 +1,16 @@
+filename = 'halflifemenu-neoforge-2.1.jar'
+name = 'Half-Life Menu'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2190540a01d08cd8b16b5fa5e4c102d8ebc61d3b87aa9fece72bd9ea7b54eb46efe010bab41095662c51746231475125fd77e655ebee32eecec0a191ab6be2f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oTMKcnZa/versions/vmDRTDeA/halflifemenu-neoforge-2.1.jar'
+
+[update.modrinth]
+mod-id = 'oTMKcnZa'
+version = 'vmDRTDeA'

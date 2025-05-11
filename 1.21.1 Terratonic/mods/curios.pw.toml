@@ -1,0 +1,16 @@
+filename = 'curios-neoforge-9.4.2+1.21.1.jar'
+name = 'Curios API'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c86ea201196433f4c1cfae70b603e9e5660bd4a824dede37ddc99ff1bf8da64ee7cb05b195e0753d20d7f152beb9c76cd7dbe0383b4d819a26e0e7f62ba8fdd6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vvuO3ImH/versions/6PllU1Iq/curios-neoforge-9.4.2%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'vvuO3ImH'
+version = '6PllU1Iq'
