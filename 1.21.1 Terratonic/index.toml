@@ -396,8 +396,8 @@ hash = "7b0c177837db7f41acfc20192fa33be910d08fe167007f207b16ebd8339d9ca0"
 metafile = true
 
 [[files]]
-file = "mods/swingthrough.pw.toml"
-hash = "2920669348308307231f561eaa16efa4df15b6aec57380171059c073b7dc17dc"
+file = "mods/cut-through.pw.toml"
+hash = "2df16fac3b23d8dac50e8038b11303373ea2662111261791d9290db7c7c10c1c"
 metafile = true
 
 [[files]]
