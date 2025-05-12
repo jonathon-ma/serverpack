@@ -1,0 +1,16 @@
+filename = 'oracle_index-neoforge-0.2.1.jar'
+name = 'Oracle Index'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '134dd3baa279fac2d864080a7be356e3b273b3d881c472a548b6852823317a47c01be1abc7edae18deb50453e48eddb4b5f939b0bd03533768d69e6f4bb7cbe3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J8MMsNrL/versions/HO9CqkwV/oracle_index-neoforge-0.2.1.jar'
+
+[update.modrinth]
+mod-id = 'J8MMsNrL'
+version = 'HO9CqkwV'

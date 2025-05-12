@@ -1,0 +1,16 @@
+filename = 'terralith-biome-saplings-1.1.5.jar'
+name = 'Custom Biome Saplings'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cea0fdd40bcd563d227483d02b5184016767673bcae88e03fe8620c584ebbe58f6d9ba7251ba4b94b0c13f9b315085e07b40d6780b683b8f197850bbadbccc2f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CYGkXnUb/versions/P1i1a8DT/terralith-biome-saplings-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'CYGkXnUb'
+version = 'P1i1a8DT'

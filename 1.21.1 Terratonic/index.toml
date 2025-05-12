@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "1af382911e2e85f43691fb7f8e6d2758826929abc3b8f9e9f8f67a83c44bcb6a"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "6cdc41d10a25f004acd6cb565f8876c1c1baca66d5037053d81c4ce85975d835"
 metafile = true
@@ -43,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "2065d35facfb771f7d47cee04472a2fe8dc2ed96ae02e6be9ec4b973f798254a"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "e939f74b5941f14fdd349ae4f38907e3fc4fd114701c5e238ee749d71a578f30"
 metafile = true
 
 [[files]]
@@ -266,6 +279,11 @@ hash = "2d59943436b500464280e801a7772f4bfb8d8a9ef7abecafd3ac41f35014c11d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "9af8fe7b38e2652633d7efb1a9fdf85a273596dc53a9dd728d1bd22e0b52e003"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "808605fda46786c3255be0f680173bdcf88b168811cfc9e0ae1d581fb57c845d"
 metafile = true
@@ -326,6 +344,11 @@ hash = "659b7b186e9bfe7a6f463de1a93ce52ee70db50afbe3df64a5641088d98f12c7"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "c3beea0705356074888ee702deede57246981f74ec752e8cc82227ba428893db"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a2b7214f41d75d8c2497487e836640cd7094dd06bebea7d9309c046a9626e3e6"
 metafile = true
@@ -371,6 +394,11 @@ hash = "fd1b125d1eea969e576ab7c8cdf2dcd065320371ba0f888d3bd46207b6321cd4"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "b7309795d7b4a0d71db1e05a382773d7d9076ba3228312e019e30d7874a82505"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "ac424608e12d2a7d52c415642c786761ae1e67872e4348cf6bca6cddffab06a5"
 metafile = true
@@ -398,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88a224bb7ed128a523a0a27c42c571c2e049705e2d21227d1e9d18878835cda2"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "e4433e7a591c5ff25cc8de361626cce59e137fb25ac8ee09bb6fcb4fb6ad0fff"
 metafile = true
 
 [[files]]
@@ -461,6 +494,11 @@ hash = "f43177f5729d9a4398a68cbb31a8285bcae4f3145d70c6c848721f3151e21f5d"
 metafile = true
 
 [[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "6697546f53a1ab1f38c9222cc0845cb5c5e55b67e541b5e41579e00802df691f"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "dfccf77975c794b6651c1130418b5dab135ff4f60a266e0937172d81140edd7d"
 metafile = true
@@ -483,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "266eafcb0738cdc032ee32218b2ca7fc6924b2b2be38cba2b48f11e07d7ce00b"
+metafile = true
+
+[[files]]
+file = "mods/vanillacookbook.pw.toml"
+hash = "49d4917775601391d3207a64ae3643a16232664f06cc54b97c69148028747b72"
 metafile = true
 
 [[files]]
