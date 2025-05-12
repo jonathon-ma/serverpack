@@ -1,0 +1,26 @@
+{
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.inventory.ElectricityGeneratorMenu": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 38,
+                "top": 292
+            },
+            "SETTINGS": {
+                "horizontalOffset": 52,
+                "top": 277
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.StoveScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.inventory.StoveMenu": {
+        "ignore": true
+    }
+}

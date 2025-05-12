@@ -1,16 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
+file = "defaultconfigs/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "defaultconfigs/inventoryprofilesnext/New World/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "defaultconfigs/inventoryprofilesnext/grainsoup.exaroton.me/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "defaultconfigs/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "1af382911e2e85f43691fb7f8e6d2758826929abc3b8f9e9f8f67a83c44bcb6a"
+file = "defaultconfigs/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "a15770385f6b6773375cdffde73b9cca856787fe56b9d0cdbf63b1b00540915e"
+
+[[files]]
+file = "defaultconfigs/inventoryprofilesnext/inventoryprofiles.json"
+hash = "81c87dc0fa6d204c577cf76f675d7ae1038ff2b7a5ebc2c639b7caa72bb2f436"
+
+[[files]]
+file = "defaultconfigs/inventoryprofilesnext/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "mods/accessories.pw.toml"

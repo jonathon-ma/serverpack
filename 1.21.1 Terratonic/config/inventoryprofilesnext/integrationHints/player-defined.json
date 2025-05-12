@@ -1,8 +1,0 @@
-{
-    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
-        "ignore": true
-    },
-    "com.mrcrayfish.furniture.refurbished.inventory.ElectricityGeneratorMenu": {
-        "ignore": true
-    }
-}
