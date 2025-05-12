@@ -1,6 +1,6 @@
 filename = 'dungeons-and-taverns-v4.4.4.jar'
 name = 'Dungeons and Taverns'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

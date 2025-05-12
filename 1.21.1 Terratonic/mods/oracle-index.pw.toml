@@ -1,6 +1,6 @@
 filename = 'oracle_index-neoforge-0.2.1.jar'
 name = 'Oracle Index'
-side = 'client'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

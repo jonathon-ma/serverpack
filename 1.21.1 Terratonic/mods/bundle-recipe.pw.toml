@@ -1,6 +1,6 @@
 filename = 'bundle-recipe-1.21.1-v1.1.0.jar'
 name = 'Bundle Recipe'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1,6 +1,6 @@
 filename = 'forgivingvoid-neoforge-1.21.1-21.1.3.jar'
 name = 'Forgiving Void'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

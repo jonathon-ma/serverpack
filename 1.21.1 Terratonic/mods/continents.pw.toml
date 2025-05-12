@@ -1,6 +1,6 @@
 filename = 'Continents_1.21.x_v1.1.8.jar'
 name = 'Continents'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.20',
