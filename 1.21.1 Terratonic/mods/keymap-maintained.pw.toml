@@ -1,0 +1,15 @@
+filename = 'keymap-NeoForge-0.10.0-beta.1+1.21.1.jar'
+name = 'Keymap [Maintained]'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1520aa030445fe44ac65740c5a77086ec16fd604'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6517386
+project-id = 1263117

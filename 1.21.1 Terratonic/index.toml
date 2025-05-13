@@ -59,6 +59,11 @@ hash = "e8f58a3db43ee8492b88b5ae0476dedc0fcb948021f9d2989d7267c5f78c0f7e"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "7bd3c98e3de942f466925744c24f77588f1cd0b7dc2432464fff29304948bd4f"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "7e93b810b10c28704566ada09ec1bdc1cda6c6118d1580ea9725520a3b106334"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "8aee3a052ffeb28d813d4f41c7c631fccb6d67b5b146d6b3ff80850c2cd05404"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "539bad7a6c590612dbcc49e303d4a0109ace5de137775c52e126adc4fa1432f7"
 metafile = true
 
 [[files]]
@@ -346,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "4df4123818899781c67762f1f576f1adaae6ba273ae496cdc3819b4d2eea60e2"
+metafile = true
+
+[[files]]
+file = "mods/keymap-maintained.pw.toml"
+hash = "c5b22d12e88f4421a29f1c769e6a622624717350426520fbc5ab8d1a4a7d19ff"
 metafile = true
 
 [[files]]
