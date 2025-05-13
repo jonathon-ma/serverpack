@@ -79,6 +79,11 @@ hash = "2065d35facfb771f7d47cee04472a2fe8dc2ed96ae02e6be9ec4b973f798254a"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "1f7b0c51e2cda603844d73b5515be1f5e7a0f2d0cf09f2180095daa184583056"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "e939f74b5941f14fdd349ae4f38907e3fc4fd114701c5e238ee749d71a578f30"
 metafile = true
@@ -199,6 +204,11 @@ hash = "8477294751893e7f95fa71d40dbde62c56a1f632241d4d30c231c030033f1994"
 metafile = true
 
 [[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "26ec3b7b3e525c1b63259fbbc80dd3de02f85c4b2f33886fca23ccb5b0d47cc9"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "3768cbe69a97653c65573fe28d6ca9a839b4316435c3cc85183468c5e35a87a1"
 metafile = true
@@ -206,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "5eb93c192302387ce70c426e394e63efb7d052147ec946226db20d8002bdee4d"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "c8069028494f3ddb10c47975c10cfa9e26f3667dc7899f781465c0aa79f6d1a5"
 metafile = true
 
 [[files]]
@@ -451,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "63b07a6f61dd43eb7bafdccdd7cf949382af71c36412a4ad32e3484a0554b1ec"
+metafile = true
+
+[[files]]
+file = "mods/pet-cemetery.pw.toml"
+hash = "0128da463badb3fa5baaac7310fd44fe3c9ae7be74b81495703e75c45854dc27"
 metafile = true
 
 [[files]]
