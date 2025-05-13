@@ -89,11 +89,6 @@ hash = "e939f74b5941f14fdd349ae4f38907e3fc4fd114701c5e238ee749d71a578f30"
 metafile = true
 
 [[files]]
-file = "mods/bundle-recipe.pw.toml"
-hash = "f22e7d4d7801e0fa56b1cfdb376957fee4593b1cbeef7c00dea21af658205b48"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "cd62112cb64a3fdfb930f960d5d64bab07ea76b08bfefcfc621d0a656c3cec46"
 metafile = true
