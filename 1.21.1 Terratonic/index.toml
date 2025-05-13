@@ -564,6 +564,11 @@ hash = "57a089bb083add29bccf3b1899a1a59857f5b5a8c171ee231988c8803cb5581a"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "67a2bd54de219ae9874814721b64f67f8f44b4b2a8f236652e238f8b9512e47e"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "2535b08c036c9d32132e58fcbe9a3b878f8c0344c2ea5d81a0df7228a7368a58"
 metafile = true
