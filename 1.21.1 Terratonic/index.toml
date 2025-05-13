@@ -109,6 +109,11 @@ hash = "faf97ee51a85007fe8fa7a0ffca9a9d661a7d86a7cf02e5623c214898815d9cb"
 metafile = true
 
 [[files]]
+file = "mods/coffwallclimb.pw.toml"
+hash = "b29df612f7a5941140a710e5f1f5eeaa9374049d39d3c6a75d3d708dad2b11b2"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a9f56e005c2b6823c58c78f94041b28dca9c4d42b556b4995a7f98ba1c598f27"
 metafile = true
@@ -261,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "91aa75d03c70e5eaa4f61d1616c0e3fc6ecb662730b21cbaeb5c9d58e540fd0c"
+metafile = true
+
+[[files]]
+file = "mods/fokusapi.pw.toml"
+hash = "6e68bec2c9d3c787751db784dea9708b3b6cea924a55b002a888f64d0f2f2c10"
 metafile = true
 
 [[files]]

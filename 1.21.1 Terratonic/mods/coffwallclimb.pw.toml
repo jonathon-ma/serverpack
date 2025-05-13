@@ -1,0 +1,46 @@
+filename = 'coffwallclimb-3.3.jar'
+name = "CoffeeG's Wall Climbing"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '537b998304b36bab36ed2aa63eb0be20ce73acc024903b9e72bb723495c02af813bc92fa54b4c57a47b46ecf9b8a7d4212ab973b95c1352e70ec08c26c0eb0d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ie1S9PJr/versions/TLUQrH8p/coffwallclimb-3.3.jar'
+
+[update.modrinth]
+mod-id = 'ie1S9PJr'
+version = 'TLUQrH8p'
