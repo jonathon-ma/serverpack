@@ -49,6 +49,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "64296ae2bd5b28f7570916f17bb91e9e16f262064f8d9e81bb280a26dd2acda6"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "603061cc99ed16b51e7a4e1691182fc1226c59f81043a8223ef73cda91b3967f"
 metafile = true
@@ -56,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "e8f58a3db43ee8492b88b5ae0476dedc0fcb948021f9d2989d7267c5f78c0f7e"
+metafile = true
+
+[[files]]
+file = "mods/basicweapons.pw.toml"
+hash = "1371dbb6415abdad9949557909de93efed223d100126b1f2df52ae7a886b5630"
 metafile = true
 
 [[files]]
@@ -104,13 +114,13 @@ hash = "75c3db00abc811df1bf2aecdca56fd67a5113bb155dbdf173e4534b406b2d976"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "faf97ee51a85007fe8fa7a0ffca9a9d661a7d86a7cf02e5623c214898815d9cb"
+file = "mods/cloth-config.pw.toml"
+hash = "a17e9d14a3efb24b659673f58de17eacf700e46062d91b6a45359145dc220282"
 metafile = true
 
 [[files]]
-file = "mods/coffwallclimb.pw.toml"
-hash = "b29df612f7a5941140a710e5f1f5eeaa9374049d39d3c6a75d3d708dad2b11b2"
+file = "mods/clumps.pw.toml"
+hash = "faf97ee51a85007fe8fa7a0ffca9a9d661a7d86a7cf02e5623c214898815d9cb"
 metafile = true
 
 [[files]]
@@ -279,11 +289,6 @@ hash = "91aa75d03c70e5eaa4f61d1616c0e3fc6ecb662730b21cbaeb5c9d58e540fd0c"
 metafile = true
 
 [[files]]
-file = "mods/fokusapi.pw.toml"
-hash = "6e68bec2c9d3c787751db784dea9708b3b6cea924a55b002a888f64d0f2f2c10"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a0a4567fb8a01fc62172b51e315bf787aa9a33d412b429a70abe9a8b15615ad8"
 metafile = true
@@ -331,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "4a30b08f0ac24a1075978f072a56f7f1e8d2191fd02be2bda7d61fa4edb69709"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "e75f6f86c600ed21a56f73c43902c373a7ad8c57f697049b09dc730bea95af36"
 metafile = true
 
 [[files]]
@@ -466,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "0128da463badb3fa5baaac7310fd44fe3c9ae7be74b81495703e75c45854dc27"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a4de2cafa9431a0f4ae452adebedb7a6301ec8c6fd64ae5c55d21059e709ed05"
 metafile = true
 
 [[files]]
