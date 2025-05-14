@@ -364,11 +364,6 @@ hash = "e75f6f86c600ed21a56f73c43902c373a7ad8c57f697049b09dc730bea95af36"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "30d1c0ac5a0e4afb44b22d1ffca10651fa31ec9b84306bfd1b5679da1bab4b9d"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "b8d8d46f9b0ee39c0d70c014d921d3759aa0e3c1a86b62879517e22839429ee6"
 metafile = true
@@ -466,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b5611a2a1ac512681632588ee8fb976a261a666b1c8f5e4485a40e60040062ff"
-metafile = true
-
-[[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "9093bb762494ccc376446149fe86684356970a60b5c6cbd56215c8bcba8579a1"
 metafile = true
 
 [[files]]
