@@ -124,6 +124,11 @@ hash = "faf97ee51a85007fe8fa7a0ffca9a9d661a7d86a7cf02e5623c214898815d9cb"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "cca8dedfed6b4a7f7e8e1593d34b3bf99b93b33a03170155567a8253df151531"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a9f56e005c2b6823c58c78f94041b28dca9c4d42b556b4995a7f98ba1c598f27"
 metafile = true
@@ -334,6 +339,11 @@ hash = "8301f3119458d7a40e68de4f04fe723a2e93ad6b172d54a26fb72039a81878f0"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "9ae8bd1809b2a033ce1fb0e09e048019b26e506c15d8f7cafa733326a9a07ee1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3f7c49c9516e829c17e87749e93155623c87d2af32c422b8d608edde9f93914f"
 metafile = true
@@ -351,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "e75f6f86c600ed21a56f73c43902c373a7ad8c57f697049b09dc730bea95af36"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "30d1c0ac5a0e4afb44b22d1ffca10651fa31ec9b84306bfd1b5679da1bab4b9d"
 metafile = true
 
 [[files]]
