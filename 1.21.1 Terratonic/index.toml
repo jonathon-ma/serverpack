@@ -469,6 +469,11 @@ hash = "b5611a2a1ac512681632588ee8fb976a261a666b1c8f5e4485a40e60040062ff"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "9093bb762494ccc376446149fe86684356970a60b5c6cbd56215c8bcba8579a1"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "fd1b125d1eea969e576ab7c8cdf2dcd065320371ba0f888d3bd46207b6321cd4"
 metafile = true
