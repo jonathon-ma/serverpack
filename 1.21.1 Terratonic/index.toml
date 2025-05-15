@@ -279,6 +279,11 @@ hash = "6876c1a9717c6bce3a9e620892641d9640a70581f47937be234de4e5bc8b06ad"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "42c6415ce60875747f8ca9d1aa1c2f2faee6bbfab8e61c9ee28dbef8a078d11c"
+metafile = true
+
+[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "feba0de9b5a927eaa0c479d636ca1b263b278fd33ae1e7f91dfbeeaa5b189ec0"
 metafile = true
@@ -461,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b5611a2a1ac512681632588ee8fb976a261a666b1c8f5e4485a40e60040062ff"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "8d78d651d17bf0c985cae2fd8212cbaf49e00dd7863a02ea8a74a7a44eec96ca"
 metafile = true
 
 [[files]]
