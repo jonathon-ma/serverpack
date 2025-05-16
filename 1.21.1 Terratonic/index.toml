@@ -29,6 +29,11 @@ file = "defaultconfigs/inventoryprofilesnext/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "f194e1577daf538d525509babd57f768f6f28081c1150222e590a3952e57268e"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "6cdc41d10a25f004acd6cb565f8876c1c1baca66d5037053d81c4ce85975d835"
 metafile = true
