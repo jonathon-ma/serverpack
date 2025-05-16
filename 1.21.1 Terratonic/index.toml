@@ -144,11 +144,6 @@ hash = "8959339f588e0db4259f4edf8e8682555525399a209419ff20bbf022498923d7"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "18f45418330c8e54cb24609f734fa47b3c6e4fdbdd89d09371f36b9a1d40b466"
-metafile = true
-
-[[files]]
 file = "mods/continents.pw.toml"
 hash = "a7787b19de1b72a25ef41a49b77b90e9bc3e18cb572f0cf9e1f562ffd004823d"
 metafile = true
@@ -316,11 +311,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "91aa75d03c70e5eaa4f61d1616c0e3fc6ecb662730b21cbaeb5c9d58e540fd0c"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "a0a4567fb8a01fc62172b51e315bf787aa9a33d412b429a70abe9a8b15615ad8"
 metafile = true
 
 [[files]]
