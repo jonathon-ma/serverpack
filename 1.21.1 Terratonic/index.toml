@@ -184,6 +184,11 @@ hash = "4e5018f6b67df421e1b8dee80fcc7a8e2d78941b54af6774759d220881b9e886"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "f748b90e7950f5d679374cfb35eb6e2dd8408d29ecf3f35e374167c61565cf39"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "8aee3a052ffeb28d813d4f41c7c631fccb6d67b5b146d6b3ff80850c2cd05404"
 metafile = true
@@ -601,6 +606,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "0deb1ef9f6cc70a657729c72f246e6bd097eb3abe5eb888fcc844cb7cedc619c"
+metafile = true
+
+[[files]]
+file = "mods/the-block-box.pw.toml"
+hash = "b507e2269a0cd075c645b45d360872dc1b6361565c60b49edf0b1afe597d8ff6"
 metafile = true
 
 [[files]]
