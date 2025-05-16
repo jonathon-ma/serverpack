@@ -1,0 +1,16 @@
+filename = 'MobCapturingTool-neoforge-1.21-4.1.0.jar'
+name = 'Mob Capturing Tool'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78416460d1886ec78bcbb669e5d31f24beef55b5f90c6c699b4763b22fe394c22f332687c30f92a10b6a3db16d3a4a9e07bf5bb748ab5b7ba1d6bf7d0b716b1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cj7aaPDl/versions/Pg5SLyud/MobCapturingTool-neoforge-1.21-4.1.0.jar'
+
+[update.modrinth]
+mod-id = 'cj7aaPDl'
+version = 'Pg5SLyud'

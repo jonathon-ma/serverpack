@@ -454,6 +454,11 @@ hash = "27ad8774873763daa1c99ff2c250f6a0266135ecb9a06b49c96c559105f4beb7"
 metafile = true
 
 [[files]]
+file = "mods/mob-capturing-tool.pw.toml"
+hash = "737e4e78c92bc0a61a5bbf964524e68b87c75c5b0ffb416963f0512dd2b121c6"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f2d068af3998c979e0a8dbf6d4eaf8d2fa98081a540fd0e0dc9fe238f04a157"
 metafile = true
