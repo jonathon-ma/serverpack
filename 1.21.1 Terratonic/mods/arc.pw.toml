@@ -1,0 +1,16 @@
+filename = 'arc-1.9.3-1.21.1-neoforge.jar'
+name = 'Arc Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '40b27c7391bc01e429faefa93fc307d7c86aa4a45fcd853426ccf60e45bb4c23ae415f9985ebcc335e5c4012166d0cbc00f797ea4f50e9ad83c879fb1c9ec931'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H3eKhxi7/versions/NvbnBoaU/arc-1.9.3-1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'H3eKhxi7'
+version = 'NvbnBoaU'

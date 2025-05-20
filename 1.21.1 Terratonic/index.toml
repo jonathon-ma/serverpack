@@ -49,6 +49,11 @@ hash = "4730a8e78605f8abc1fbc6aa193256aa7b69d29f6678b446bc6f6937915a0e17"
 metafile = true
 
 [[files]]
+file = "mods/arc.pw.toml"
+hash = "547d2431d5c1f3eb04d3002e09efd2f0b01c362b0ec0a53d2455672674b1a2ae"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -379,6 +384,11 @@ hash = "46251b0a5314ae330d861f8c97b429977014389c284d1fb9368daa7bd2c1cbbb"
 metafile = true
 
 [[files]]
+file = "mods/item-restrictions.pw.toml"
+hash = "278d7d4829b31e9b2a9441addb9213e8dd41f9b78538ceaa36e5f678e0962387"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b8d8d46f9b0ee39c0d70c014d921d3759aa0e3c1a86b62879517e22839429ee6"
 metafile = true
@@ -649,6 +659,11 @@ hash = "266eafcb0738cdc032ee32218b2ca7fc6924b2b2be38cba2b48f11e07d7ce00b"
 metafile = true
 
 [[files]]
+file = "mods/ui-lib.pw.toml"
+hash = "1fa45fdf48f567dd01fe80d6b5f252010d41c023269f8f5cb9c67c2f756f396d"
+metafile = true
+
+[[files]]
 file = "mods/vanillacookbook.pw.toml"
 hash = "49d4917775601391d3207a64ae3643a16232664f06cc54b97c69148028747b72"
 metafile = true
@@ -661,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "07507c8efcae5ecd519a5ef618b3e514d98324610d5485d8ba7737827237c892"
+metafile = true
+
+[[files]]
+file = "mods/yaml-config.pw.toml"
+hash = "d709a0bffb95bd951e2cf10f20ecbec1a3cbc9c6dfad980579823932dfb9344a"
 metafile = true
 
 [[files]]
