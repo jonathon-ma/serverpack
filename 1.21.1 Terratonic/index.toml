@@ -569,6 +569,11 @@ hash = "e22f1a197ff38990ef96a49761049ed49bfbfb06bb8037a3bfdc980caa069849"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "2cc4ff4cf1cd2acbaa85a7d1fd5336d19872b57b51e8b27b9940b24d3d2f564f"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "d9a57aa14ed2c3582de47bf099f9b6665192b65d17016afed4694a8a252dc2c9"
 metafile = true
