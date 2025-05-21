@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configs/securitycraft-client.toml"
+file = "config/securitycraft-client.toml"
 hash = "61daaf1d783cf9fc3e071cfda7f2774c70958b1f2fd44db6d4013af3e82535d1"
 
 [[files]]
