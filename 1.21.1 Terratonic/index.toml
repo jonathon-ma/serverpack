@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configs/securitycraft-client.toml"
+hash = "61daaf1d783cf9fc3e071cfda7f2774c70958b1f2fd44db6d4013af3e82535d1"
+
+[[files]]
 file = "defaultconfigs/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
@@ -27,6 +31,10 @@ hash = "81c87dc0fa6d204c577cf76f675d7ae1038ff2b7a5ebc2c639b7caa72bb2f436"
 [[files]]
 file = "defaultconfigs/inventoryprofilesnext/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "defaultconfigs/securitycraft-client.toml"
+hash = "61daaf1d783cf9fc3e071cfda7f2774c70958b1f2fd44db6d4013af3e82535d1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
