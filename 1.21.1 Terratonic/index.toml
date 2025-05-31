@@ -117,6 +117,11 @@ hash = "e939f74b5941f14fdd349ae4f38907e3fc4fd114701c5e238ee749d71a578f30"
 metafile = true
 
 [[files]]
+file = "mods/cardsnboards.pw.toml"
+hash = "7d2131c2a7029754e4f15133627381f25daae68d44b1db2343d8567db070c4ad"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "cd62112cb64a3fdfb930f960d5d64bab07ea76b08bfefcfc621d0a656c3cec46"
 metafile = true
@@ -589,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8873338cb8fb7bbdac6946fe46d4ea81b5daeeb9fd98c87cab72fcdeece11058"
+metafile = true
+
+[[files]]
+file = "mods/slots-machine.pw.toml"
+hash = "ffd63ba5c942acc2e65614b9541a0490d42e65dc28951e1770e42ad3854a8e7e"
 metafile = true
 
 [[files]]

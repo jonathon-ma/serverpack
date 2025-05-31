@@ -1,0 +1,15 @@
+filename = 'CardsNBoards Neoforge 1.21.1 Domino.jar'
+name = "Cards N' Boards"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '76b109a7a89bfff62bd20321909c9a5b070e19a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6557080
+project-id = 393902
