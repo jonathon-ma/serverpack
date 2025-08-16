@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardsnboards.pw.toml"
-hash = "53cece3095ea9eeb08b7695b16e4ea61254e32f6b2a4dc64c665d4c252faaa9e"
+hash = "580d4526ea1cd6c39800595cd526b55a988dc2d5ccc3f6d624fd599e1481a8d8"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "c6586f4be9e1700236994e5b41b16de5afecb9b7870cc8158b152c93a5e4d560"
+hash = "e9dfc8facffc56e04ab2afcbb34e0e160912df70c01b65abf66612064a28d95f"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "67975631993f8aa1bb3ff10481b9b7062351f55136137ba78ff2bcf78e521185"
+hash = "e38a1ff23aca8f6f66b43b5b0504525b0d09ce393b3e69675c5328ed4a6bc24a"
 metafile = true
 
 [[files]]
@@ -162,17 +162,17 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "bd00103dafb6251333e99c010fccc2a93f4947e0b8a96f952d433889e20acdd6"
+hash = "1f596ed6aab29fe8d61738ae80547d027ff8dba70d572811e7eff23a230afd21"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4907e8effe3d39b09bc1c03a390c76a31e5918cf1ec71eb2ce45b08d9bfce942"
+hash = "2b692f1a7d29de7c4a1cc50e272b19fa6d742b6a16f368d0999257e8cea147aa"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "55c6e77c7af3b55f1846889e47e3e025ca3add164dab9e1e879c2c12d1a90275"
+hash = "68152dc4cd228e315d4a1a687c3a240ef1cf58c5890987ed86fdbf3a7bd37f6c"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "cfe4d0432894eed7cdaa500496931d0368f31bea3d45f99b7dd420595c44a418"
+hash = "77fbe0d4136a26e16c337e2209bc778b9f06eafd4117dd943a73844adb9f6862"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/slots-machine.pw.toml"
-hash = "557d212830da84c8364b5115ac8a5710e13d83f93ff9ca7890228f70df0d5f90"
+hash = "c2ec27e0e1068a335f006daabf6ce52f72c49ab00379d33968f34123d1c1f2d6"
 metafile = true
 
 [[files]]
