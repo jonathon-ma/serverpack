@@ -1,0 +1,16 @@
+filename = 'worldborder-1.20.1-4.8.jar'
+name = 'World Border'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '018a0e6744a245d3e7ba1f5890639b09b4af679a1cf6aca2acb65d57550a98b38dc1876ec62bc191cbec42fe7da14b4c4520a32f5cb8bd770cd5efe5da4c684a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nN96GjON/versions/Kw4kTz72/worldborder-1.20.1-4.8.jar'
+
+[update.modrinth]
+mod-id = 'nN96GjON'
+version = 'Kw4kTz72'

@@ -51,6 +51,11 @@ hash = "ea76e7a7bf9578f2558959aa63a528db54eaeff821dad6357cbce7025b9c63ce"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c67b9ffed57dde05a3b29b8a663c308c594bceca4f7a4070b4248bf486319f44"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "14d16c0a6ef8f24aec11ecc918a19b6724cfd9cb6f3a0e67c7232fefeaec0d60"
 metafile = true
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
-hash = "dc98217bf04da5f4590a40cdc6177038d2da42a8cea178c56f2410989a30ea17"
+hash = "6e05c51531d7c2a96dc34916826a81f40ff0a9a7340f8967c5ae9bb209a0fa3a"
 metafile = true
 
 [[files]]
@@ -137,12 +142,17 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "5acb1dd2cd9a77afa907231da87b31c4e8dddf8af276811b43d909dab5d14598"
+hash = "7373163f9426d9ce66b322e5c22ea5988810b31fc865dfaff177107c2efd32bd"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ee0f0343e0ab153f8ca2748117c528fc9ffc5301d8f64b959a95dc79beb38b8c"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "6d10eb85cf8b900a719e33cf9bba7f97c349e04effc5c5abda110a0fd65541ba"
 metafile = true
 
 [[files]]
@@ -201,11 +211,6 @@ hash = "d558a7d37a719567cb71597656ba66086412609280e569532163f9ae87588463"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "1f596a98441118fbcf9ab8c0553165c40f6c1c73b38c456e720ed02e8f8cd8c9"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "115ab3c890dd7d9441a6290e56f658926681038cf4e7b863542c20213b23ee20"
 metafile = true
@@ -222,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "f3036ec54450834240fdb3ee5be3e84fea961b548b4a9362bee83a9267419525"
+hash = "4c7fdbcca3321622fdb6e66717f6932b906ca2a50c767994d5c445b32257bb9d"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "c8458a82307fa772282377813578b71c00d9b30529484b524a3859d7e5b3b67f"
+hash = "ce75dbc584581185c96447998dfb42ff772418b72681e0054e8195c46ce86df2"
 metafile = true
 
 [[files]]
@@ -243,4 +248,9 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "2dc200211b8b4a6b26a69aca20a34f5bad6ceaeef874f8f56b74bfc4a8ab5f4a"
+metafile = true
+
+[[files]]
+file = "mods/world-border.pw.toml"
+hash = "7bc40aadc2dce128a7f0f5a4d22a87ef33b5b8ce1fe92393c155e6f8b4222fe3"
 metafile = true
