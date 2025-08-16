@@ -186,11 +186,6 @@ hash = "68152dc4cd228e315d4a1a687c3a240ef1cf58c5890987ed86fdbf3a7bd37f6c"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "92c2a6ff1bf3741ee631bf737544121198c3e685726d7eb04bd6b47e3e1a0da5"
-metafile = true
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "2b255e1e2c3e04b414afea0d399a04b3eb32a8cb64b4308c8a9ae8efe21d5ff3"
 metafile = true
