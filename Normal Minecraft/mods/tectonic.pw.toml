@@ -1,0 +1,16 @@
+filename = 'tectonic-3.0.8-forge-1.20.1.jar'
+name = 'Tectonic'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '75d5ff7a4b36e29d90f10d0387cd35e0250cca77d48d9379406492758fd6838449b49f4fe5a7ebd1544ef16303ec2a84a4de9c4a49419d9de298729b65cba0c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lWDHr9jE/versions/RMVZIPop/tectonic-3.0.8-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'lWDHr9jE'
+version = 'RMVZIPop'

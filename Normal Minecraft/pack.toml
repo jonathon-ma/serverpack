@@ -1,0 +1,13 @@
+name = "Normal Minecraft"
+author = "grainsoup"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6873b054507f12b48a0c5a91c238e1d612f239d7c2a22d73eeed8ad26b306d9e"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
