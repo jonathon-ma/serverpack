@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6d10eb85cf8b900a719e33cf9bba7f97c349e04effc5c5abda110a0fd65541ba"
+hash = "322aa8a95b63c55d482d06ef455b679244e1228a9d7ab73e9870e78caf8c8262"
 metafile = true
 
 [[files]]
@@ -252,5 +252,5 @@ metafile = true
 
 [[files]]
 file = "mods/world-border.pw.toml"
-hash = "7bc40aadc2dce128a7f0f5a4d22a87ef33b5b8ce1fe92393c155e6f8b4222fe3"
+hash = "c587d7ead2f4b55c3ce2b4f35264c518623b7e48add6458537545498dedaa3ba"
 metafile = true
