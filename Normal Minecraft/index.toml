@@ -6,6 +6,11 @@ hash = "4ec2c3ead272aa44eb2a00b15a394a842c22564d84d809571b7b857bd53c153a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-mining-dimension.pw.toml"
+hash = "c21cc79f997af20d2671c3592cbe1044bffee5ad098f0c3eec3c0e6cb46cbd21"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "2b9fef5c602f4d773f3c487bea99ac886315120453c0af761c94320b9c4dbd35"
 metafile = true
