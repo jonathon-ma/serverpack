@@ -76,6 +76,16 @@ hash = "29fcd06fab53399da7ea1f5d0027872825411557af3aa1a6c7226f114e6dba09"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "27c36d2bb3cdd24b251f81768c4e4117e140621f16c2fce0cc18f6ef7d77752c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "e7be0adef57de2b9582128572cc1a27cddaa2f3d933cae95bbdacb30775d2e5c"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "8c981120536cea49463f95d7906288420e9d672511c0c3bf6e4867c4f648e8ec"
 metafile = true
