@@ -216,6 +216,16 @@ hash = "77fbe0d4136a26e16c337e2209bc778b9f06eafd4117dd943a73844adb9f6862"
 metafile = true
 
 [[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "032d6fa0c364b85b74eb8bb55cf919076d76666a02182bef12292b8fa19d8c44"
+metafile = true
+
+[[files]]
+file = "mods/respawning-shulkers.pw.toml"
+hash = "5920927e66928fe947f6dd247c27e9426f7d1e515de12821591dc360b475bf3e"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "d558a7d37a719567cb71597656ba66086412609280e569532163f9ae87588463"
 metafile = true
