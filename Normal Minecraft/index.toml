@@ -121,6 +121,11 @@ hash = "fb9966ab0500f2692632a924db1e7c4500a740ecec3cd6d4957acc4b5d2bd15b"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "78ade45cedb2e4fe35fe5129bdf645acdab96ac3baafcde29f5032ac824382c2"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "71a622f58c350beadb4bfeab082c0a9e532379ea38fa93f81897dd4d34152a22"
 metafile = true
@@ -166,6 +171,11 @@ hash = "ee0f0343e0ab153f8ca2748117c528fc9ffc5301d8f64b959a95dc79beb38b8c"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "16610a28b1fd8bab92fe1da4127a7bc86a8111a775bc7a7b99610239f408d7f3"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "322aa8a95b63c55d482d06ef455b679244e1228a9d7ab73e9870e78caf8c8262"
 metafile = true
@@ -193,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2b692f1a7d29de7c4a1cc50e272b19fa6d742b6a16f368d0999257e8cea147aa"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7103b9b652531f01949ed210858d289bf1b478a08e21c5d610a9cdcc7159353a"
 metafile = true
 
 [[files]]
@@ -236,6 +251,11 @@ hash = "115ab3c890dd7d9441a6290e56f658926681038cf4e7b863542c20213b23ee20"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "6c745d3f57e6f5e24d888740585226acb30147bf046217e3de5ba837d904ce6e"
+metafile = true
+
+[[files]]
 file = "mods/slots-machine.pw.toml"
 hash = "c2ec27e0e1068a335f006daabf6ce52f72c49ab00379d33968f34123d1c1f2d6"
 metafile = true
@@ -246,6 +266,16 @@ hash = "66f010c83996a583b38cce1354d1ae476b3c116a15d036669c5f4403752237a4"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "60da95c7753b017ff586af74af1c6f98f4e3d3edab686b4db8ca2c2a57c86a33"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "75b15e5a8e7feeee4d414ff3c624eeb5a1f0819a3cee715598bb31d4816d0dc2"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "4c7fdbcca3321622fdb6e66717f6932b906ca2a50c767994d5c445b32257bb9d"
 metafile = true
@@ -253,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "ce75dbc584581185c96447998dfb42ff772418b72681e0054e8195c46ce86df2"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "3a391d592b8bde24b365114edae9f406a75c148c3d1003b31e3486569e1de59f"
 metafile = true
 
 [[files]]
