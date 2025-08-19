@@ -26,6 +26,11 @@ hash = "4262a12ba5868e578708260bfe2960d5a387fade20aef2f26423b21767fdb4b9"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8fc2033ee6c4f2ca22b54c3c3e3e31e7fb16c67a24ea55740a1a4e4d9e9b856c"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "bfc7017580333d78ac4ea938496e791904cb54409ed7159ce57ea169facf37c6"
 metafile = true
@@ -176,6 +181,11 @@ hash = "16610a28b1fd8bab92fe1da4127a7bc86a8111a775bc7a7b99610239f408d7f3"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "e0c6ce8408964b6a0e95b5e4a59930fab5717e6afa011e74398fede0e0c2c3a3"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "322aa8a95b63c55d482d06ef455b679244e1228a9d7ab73e9870e78caf8c8262"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "68152dc4cd228e315d4a1a687c3a240ef1cf58c5890987ed86fdbf3a7bd37f6c"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "d733cd7b0cde16499c333b7c6bf33feb0b54a2b99960baff78345b58cf82d8fd"
 metafile = true
 
 [[files]]
