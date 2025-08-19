@@ -266,6 +266,11 @@ hash = "c2ec27e0e1068a335f006daabf6ce52f72c49ab00379d33968f34123d1c1f2d6"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "b54d1a123468b50bb2c66f9bb76b93097d737924e40a3353d7fd7231e647cce1"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "66f010c83996a583b38cce1354d1ae476b3c116a15d036669c5f4403752237a4"
 metafile = true
