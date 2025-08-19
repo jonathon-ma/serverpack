@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/playing-cards-chips.pw.toml"
-hash = "199720d55a2e7105cf9862ee8e81f24a5f5551c8db5910e568ce5743fc73b6d1"
+hash = "9bf90290cded1996da1d3d16362ba3d2b4007758f280f1ed0a2fdd9e7d89645c"
 metafile = true
 
 [[files]]
