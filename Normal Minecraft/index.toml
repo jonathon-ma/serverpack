@@ -221,6 +221,11 @@ hash = "2b255e1e2c3e04b414afea0d399a04b3eb32a8cb64b4308c8a9ae8efe21d5ff3"
 metafile = true
 
 [[files]]
+file = "mods/playing-cards-chips.pw.toml"
+hash = "199720d55a2e7105cf9862ee8e81f24a5f5551c8db5910e568ce5743fc73b6d1"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4a4106144d10c93be468463b5f4da8dc775f5d595d6b4f24cda54eb63aab76bc"
 metafile = true
@@ -308,4 +313,14 @@ metafile = true
 [[files]]
 file = "mods/world-border.pw.toml"
 hash = "c587d7ead2f4b55c3ce2b4f35264c518623b7e48add6458537545498dedaa3ba"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3de23b6ed03c6e206493c6518c5d5f97567cf567bbf329eeedfaf6014590b2d6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "88565b7f7ce78f9ad5fd15b77016c666346274a54091f9bdfebadbc27bab5e51"
 metafile = true
