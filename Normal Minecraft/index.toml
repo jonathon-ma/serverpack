@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/psychadelic-experience.pw.toml"
-hash = "0ba05666d9be9ae8f7b26c8e5c08a09e461aba3dd7cf843d7d8baface28cea65"
+hash = "dc730004ec4936b00b2b8b754bdb027d9ce35d23c5a22c567a48ff0b207bdcdf"
 metafile = true
 
 [[files]]
