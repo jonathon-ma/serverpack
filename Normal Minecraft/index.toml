@@ -6,6 +6,11 @@ hash = "4ec2c3ead272aa44eb2a00b15a394a842c22564d84d809571b7b857bd53c153a"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "1ae190dc71dbdb3824c43f6ff4cbf33986e2cd9f59ce4ab269497069b23b60eb"
+metafile = true
+
+[[files]]
 file = "mods/advanced-mining-dimension.pw.toml"
 hash = "c21cc79f997af20d2671c3592cbe1044bffee5ad098f0c3eec3c0e6cb46cbd21"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "05cfa446750b2c26322c30c3b3638a16300f9749dbe270edd0ce20292d2539c7"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2f514a05e7c125ab45103504cdf86e630393f59fc850fd92d4b3a05ccdc6b49f"
 metafile = true
 
 [[files]]
@@ -176,6 +186,11 @@ hash = "ee0f0343e0ab153f8ca2748117c528fc9ffc5301d8f64b959a95dc79beb38b8c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "481fa9e5fcadfcce1c511118ca81d711f2569c456e5f54e3b794e239526584fa"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "16610a28b1fd8bab92fe1da4127a7bc86a8111a775bc7a7b99610239f408d7f3"
 metafile = true
@@ -183,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e0c6ce8408964b6a0e95b5e4a59930fab5717e6afa011e74398fede0e0c2c3a3"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "75a31ab85ddaf6b3e6966af0e465c65e173a5692e724eb804d62a17d3ca8190a"
 metafile = true
 
 [[files]]
@@ -296,6 +316,16 @@ hash = "c2ec27e0e1068a335f006daabf6ce52f72c49ab00379d33968f34123d1c1f2d6"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "e708e3a460b32f2cb17d679ea371220d90ac0f8c96d6e0668464b9e05dd77689"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "cbad4e95bf0683f39bd5b505dd02ab238745cd500b0363e219da40d24e017959"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "b54d1a123468b50bb2c66f9bb76b93097d737924e40a3353d7fd7231e647cce1"
 metafile = true
@@ -326,6 +356,31 @@ hash = "ce75dbc584581185c96447998dfb42ff772418b72681e0054e8195c46ce86df2"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-compatibility.pw.toml"
+hash = "7711a1e99b070c73125686a23bd613c8d6b3ddb2b16b345298a6eed52bb3de98"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "bc7cbbb7f7f60f34a10fed842ce8ab2d1c158e7af26d818aa6d33e348af439c5"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-delight.pw.toml"
+hash = "9d3e039e2ca11a92242a02c1ee53c56273a110f24e0a924165c7b1e15b8cc510"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-melting-the-aether.pw.toml"
+hash = "bc738f4e8b018ec3ca964d846404b963404be23b77f21d1637f264d4ac1fe48d"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-things.pw.toml"
+hash = "fb8be50596afca960ff1dcb37117a3f96266810c275a89bd36d122f9970f6dd6"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "3a391d592b8bde24b365114edae9f406a75c148c3d1003b31e3486569e1de59f"
 metafile = true
@@ -333,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "a51ff17a382257081aa6dc5178b997182256e788a11f014654ca62870b297750"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "0d35a5ded1e5efef5b342c95d4a48dbbf0648c09bc0fb36bd7d822aeb230c686"
 metafile = true
 
 [[files]]
