@@ -196,8 +196,18 @@ hash = "e38a1ff23aca8f6f66b43b5b0504525b0d09ce393b3e69675c5328ed4a6bc24a"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "28cc9cc1ac0df9aa541baf3b4552f246356fe4cb6352acadec384261a4456855"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "cb101c29fc90fb63abf3c06cf8f49caed8dd358814a21cef9e35e99484856128"
+metafile = true
+
+[[files]]
+file = "mods/metalborn.pw.toml"
+hash = "9e9f5eef666b27efa39c6db278a6fb15f97a9a766954478e88718bfd97756738"
 metafile = true
 
 [[files]]
@@ -238,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/playing-cards-chips.pw.toml"
 hash = "9bf90290cded1996da1d3d16362ba3d2b4007758f280f1ed0a2fdd9e7d89645c"
+metafile = true
+
+[[files]]
+file = "mods/psychadelic-experience.pw.toml"
+hash = "0ba05666d9be9ae8f7b26c8e5c08a09e461aba3dd7cf843d7d8baface28cea65"
 metafile = true
 
 [[files]]
