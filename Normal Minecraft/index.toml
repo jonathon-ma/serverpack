@@ -201,6 +201,11 @@ hash = "16610a28b1fd8bab92fe1da4127a7bc86a8111a775bc7a7b99610239f408d7f3"
 metafile = true
 
 [[files]]
+file = "mods/json-things.pw.toml"
+hash = "c69a9e91d36add6ce4827d331d762d13a6d852d8d50117205dd3e15563c45eda"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "e0c6ce8408964b6a0e95b5e4a59930fab5717e6afa011e74398fede0e0c2c3a3"
 metafile = true
