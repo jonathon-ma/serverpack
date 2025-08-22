@@ -151,6 +151,11 @@ hash = "90a9c3410dd32d6b73e1f8fa85b7eeead800c5e212b56ed58be1c0ba140ccc69"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "cf0bfd4e85615a8073c6370213a08c9c3fa28f820edc200cd4c1630e6142ac77"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "f23e16f013587e509404c1783180f3fbc8a8cc89891e8a6b806fd914f4f38dc4"
 metafile = true
