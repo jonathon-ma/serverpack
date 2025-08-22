@@ -91,6 +91,11 @@ hash = "b682ea736e3611a4d039fcc820afd7bd87e9a8394f6a81b718d6d958a082c987"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "a226a16c08d275ca1e54e7d8aeb60b9ca3e8a0daca36688904a51be99f109b10"
+metafile = true
+
+[[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "29fcd06fab53399da7ea1f5d0027872825411557af3aa1a6c7226f114e6dba09"
 metafile = true
@@ -196,6 +201,11 @@ hash = "481fa9e5fcadfcce1c511118ca81d711f2569c456e5f54e3b794e239526584fa"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "fbea8e7a9fdd08f4982b37f4d1446af1f4104ee0e06fd943f5eac7c915b9fbb2"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "16610a28b1fd8bab92fe1da4127a7bc86a8111a775bc7a7b99610239f408d7f3"
 metafile = true
@@ -263,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "68152dc4cd228e315d4a1a687c3a240ef1cf58c5890987ed86fdbf3a7bd37f6c"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "065d550a9e253a26e8605ec198708ec40eaa3f13314a6b32aa450f2099b5c8bf"
 metafile = true
 
 [[files]]
