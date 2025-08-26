@@ -391,11 +391,6 @@ hash = "bc7cbbb7f7f60f34a10fed842ce8ab2d1c158e7af26d818aa6d33e348af439c5"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-delight.pw.toml"
-hash = "9d3e039e2ca11a92242a02c1ee53c56273a110f24e0a924165c7b1e15b8cc510"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-melting-the-aether.pw.toml"
 hash = "bc738f4e8b018ec3ca964d846404b963404be23b77f21d1637f264d4ac1fe48d"
 metafile = true
