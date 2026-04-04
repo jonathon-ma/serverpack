@@ -1,0 +1,17 @@
+filename = 'iris-neoforge-1.8.8+mc1.21.4.jar'
+name = 'Iris Shaders'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.8+1.21.4-neoforge'
+
+[download]
+hash = 'b1868549b3fed06bc3cf584839c646ea5cebc6f954634ae7f2f0e8619c0c6a63e61e3f453eb1eec7e556c932b2d742998bd153885b141b9005dec8160cd90c93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YL57xq9U/versions/FNc0XYTL/iris-neoforge-1.8.8%2Bmc1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'YL57xq9U'
+version = 'FNc0XYTL'

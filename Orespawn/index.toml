@@ -1,0 +1,136 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5070c5ae42006809324926066c8c8f37d977e5dfeb323f610af820c9a66b70d2"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "1390c6f62c03556863ccdbffdcf23bb2e971784d0458334b484c6f25b60d09e7"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "6c187ede6af878f6d741a49f17141cc059efb5ccaebd5ee5ca95b9b192990080"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "53823d3ca3ff8fb1bfa04df6dc5454ec83e336c7ea43e0d2ea553ee33c44a3f7"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6362cde0c17bc579c8dc8d9df4b9e6b39a3a4e05b9d49183c1e397c88425c93d"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "33f623d75f9b8c8c95451bda2889e5a50a6122f1fe0f04b20ac606a241bfb3e7"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e8e4fc68295d5e25b7d01ff7a67688d6118b8593c59b5e46003eaa4708e44db3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4722cf9111efb5a1ecc3cf56871dfec6872cb2eeda0e27222fe56b254f8173dd"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "89a72b672af7d975fb965d3247f5f9e5e9c2abe290d3f88f194bfc03018ef655"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "59444db80e86e50bed06a04a08ee17a7ec44fe801635cf2102a084304daeeb56"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7a2902775481e5173ed0a09b3daa43ecc276b1d47282bfd6ad99bb50b96760e5"
+metafile = true
+
+[[files]]
+file = "mods/osce.pw.toml"
+hash = "5ba10fc0859ede29a14b6146bdb80be9557653ff480df3fab8be27b129a753b0"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "5e34e86a0f93c0536cd0f77218aa75ff8f45aa6b110e8d89dc184a7a16358c01"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "7a42dc3a0ff281d9a804afa2deb9202d9b22f526902f09c3513368c2ed7e183a"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "952c52e68cad680ae54a65b1f22423b122645cfaae42e4590eecb56cf78bd30d"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "3c4cdfc6ba7f32683493068cbea36e3177dbbb6cf7bd185ed3c4cfd2900e27c8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "1873298a4103572372f9be47b93e3afcebb9d95220129cb690f8d7341ae19858"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "c8216c34494e0fcf1a9c60c9a00e19d6177898c2c4fed2482a221388bee9abfd"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bf6b18fe941058d3f694175665baa5fae8dc06c4679a04c95254ff5572f601cf"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "89c5d88b0df7d0bd5aa4ceba87e2617b7801677362e8c827c059e89ebabb5cf6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "7a3baa668739da9d302ccd0de96cabff9c140d04110b31dd33b45117d81dbf6f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "7e1042e55aca7c2d16609d5f98fd4f17803f92a9f50b5e6711fff9b7b63e06d3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "820c1a950b2a7f56d78a44705ac755b8456a00db1cae6021f049a586e0672ace"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "621e900ae78eb546ed0c0e0bc7520bd783cc2e21f064bff2c14dd1dea9b76604"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "ead38a6d5b58e239f1089e496f614f8a54234ea22ccc5862766906b7ada413a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "896a9dd81f5e7d0424520b6ffab8923d449cfaf6aa08c155ef6b53ab64d581ec"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "c1ee98e218129a0e9fe16db067e3b5fc496ca851c3607a29d57e6c8fc3645d4a"
+metafile = true

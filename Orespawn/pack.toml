@@ -1,0 +1,13 @@
+name = "Orespawn"
+author = "grainsoup"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6e5590deeec728a147b98a8cb243d20108cfd794bc1ab3967a68e7e35bd15638"
+
+[versions]
+minecraft = "1.21.4"
+neoforge = "21.4.157"
