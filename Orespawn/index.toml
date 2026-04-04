@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "789b45399ff4e5ca96bb1bb191dcad8a641a348a0b33fb1e512db7df444a89df"
+hash = "c65c06901769a4993c8bcc8ecf32498ac94cdf6a64431f59be2633e52a0da13d"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "608d6d1d4a482d2ab3e49e36ee066e047b51bed6f9a1cabd7283349fbfd60515"
+hash = "671302fdcffdd10e370a35901bb69d92f74e9f7e683b6ba3d0e1f987ba0be226"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "73a5c451fcb774c44d9f23d247391e1eb53c26d455969da702f9843111434203"
+hash = "7c2db6ea2e8482048129b837a6b99fa3a67b0740a9c69e4e124c3cb34a871ba7"
 metafile = true
 
 [[files]]
