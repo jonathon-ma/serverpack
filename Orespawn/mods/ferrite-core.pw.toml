@@ -1,17 +1,17 @@
-filename = 'ferritecore-7.1.3-neoforge.jar'
+filename = 'ferritecore-6.0.1-forge.jar'
 name = 'FerriteCore'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.4', '1.21.4' ]
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '7.1.3-neoforge'
+x-prismlauncher-version-number = '6.0.1'
 
 [download]
-hash = 'c66509657387327f0a7652f3f2ba57a0deb96a96a9ea744bae0ca38f84ca550f43d189bcfbf3919c1f5109665b092790026c140f93156cb5ad7f9f1f34476774'
+hash = 'a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/uXXizFIs/versions/joOID027/ferritecore-7.1.3-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar'
 
 [update.modrinth]
 mod-id = 'uXXizFIs'
-version = 'joOID027'
+version = 'DG5Fn9Sz'

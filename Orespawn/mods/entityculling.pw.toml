@@ -1,17 +1,17 @@
-filename = 'entityculling-neoforge-1.10.0-mc1.21.4.jar'
+filename = 'entityculling-forge-1.10.0-mc1.20.1.jar'
 name = 'Entity Culling'
 side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.4', '1.21.4' ]
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '1.10.0'
 
 [download]
-hash = '4bc26165ea1ec46ccba6cb03abd2d9077c8ce5fd601af998716524b71e262c76c7e0a9335622afeea0061d2714b339230321dbe6e467ab26379281a7f6c2fae0'
+hash = 'af2a989a8be0892cc13e13412aa4dfc2145c97431d333ccd3ea7f192440758cb195404523706b74d262671df591ca6857edd45ceb1e4de17b4ae3e8e8073fbeb'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/NNAgCjsB/versions/NFwHIAIa/entityculling-neoforge-1.10.0-mc1.21.4.jar'
+url = 'https://cdn.modrinth.com/data/NNAgCjsB/versions/2bbjEAea/entityculling-forge-1.10.0-mc1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'NNAgCjsB'
-version = 'NFwHIAIa'
+version = '2bbjEAea'
