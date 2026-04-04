@@ -1,6 +1,6 @@
 filename = 'Ping-Wheel-1.12.1-neoforge-1.21.4.jar'
 name = 'Ping Wheel'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.4', '1.21.4' ]
 x-prismlauncher-release-type = 'beta'
