@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[1.21.3–1.21.4 NeoForge] Mouse Tweaks 2.26.1
 hash = '6d16a4457330201b5c455587f2bb4757da70eb56'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5846757

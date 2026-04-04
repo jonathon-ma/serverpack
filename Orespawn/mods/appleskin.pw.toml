@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'appleskin-neoforge-mc1.21.3-3.0.8.jar'
 hash = '1cf3492688c9eaf87539ac4a4ad27a32b9cfdc0f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7517384

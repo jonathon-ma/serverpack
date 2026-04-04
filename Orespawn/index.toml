@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "7b4c8ce8518f3a2dcae0c3c738bffe0dc160dfe5ab42ae53c3ea5da4587e987b"
+hash = "7df34b5a06a79299db84e4b3f46aec1333a472c5e45d55b45e69c26d298ec1e7"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "4e59bcf3b25416d868584a68ae2f648ecf40323d70282b3f32a497b59f75bd9f"
+hash = "73c6513650aeb380fac543c2c20f348db1643eeb3645cefdbf48a0d06b3e3fd2"
 metafile = true
 
 [[files]]
 file = "mods/osce.pw.toml"
-hash = "d87a71d2a125d3ab7ba7854336de4f8790856e582951053e25a2a68417267bb9"
+hash = "14d657263ad7a0037507e5ca3b1e09b63ceb4a6869d97ae61fc0ea42aa01b9d3"
 metafile = true
 
 [[files]]

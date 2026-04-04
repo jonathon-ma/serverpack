@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'OSCE 1.5 (A pretty big update)'
 hash = 'ac9366a4ccdaad8c76b45e9f4daf0efb18247ec3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6837021
