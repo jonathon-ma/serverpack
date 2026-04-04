@@ -1,5 +1,126 @@
 hash-format = "sha256"
 
 [[files]]
-file = "orespawn.txt"
-hash = "faff1fb5ffacf7cba627b4116bb337e1f56a66e8de20006c526d3879926af521"
+file = "mods/appleskin.pw.toml"
+hash = "3e1d04b1096f66205c78032250ced472f0ce846c86d5f6eafba9bc4732a911e8"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "789b45399ff4e5ca96bb1bb191dcad8a641a348a0b33fb1e512db7df444a89df"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "cd2de7765805e1c8172db47a57218fcf6216c30c717ed2c949d5ac3be802c9ae"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "d1f52b8e9b508bc7d0c36f6210eb881cdf1ceb48bbee886d00baf70f2c1b4381"
+metafile = true
+
+[[files]]
+file = "mods/craziness-awakened.pw.toml"
+hash = "82d2d99888a01b61de44635a7fe618d072a62bc616ca6f67b2786d7018be049d"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "49b1d2283c0918a5f2c1b56035b8048fe6c1139fc3cbb9a015e7a7d25e0b1289"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "32f0e4febd9d694db480f5e9f9ea32ad19ca737945f36f5e7789bc88018917a5"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "3762200b37afe6df8541f19c5e18720d3c0c33a52a86cf3d5d26f319457f49cc"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "bd1aee67f8dbdaa2752a0e600ea245208269ba4c4d3cf4e8aa6a52dbd4c63915"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "ce7e8501be7b2cdda027630302d5cfc84d8ecd946c8976d44604f0ca0ec28269"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "d2f013834fa75cd43e46a6fabab187a4367e23443fc367b22af1cb1a23e41d8c"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "2e7a3ce314f685a2e449b8fd0bddfd7d703561323ceb9e6302e19ef562a15d90"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "614bed57dea16c0141d2911806bd8dfec909ba1924854514310dc6112326a66f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "608d6d1d4a482d2ab3e49e36ee066e047b51bed6f9a1cabd7283349fbfd60515"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "deb42f009ac143ef9ff1516e65d5eede68a0d26016a75b01a1dd8e9bbde3fe10"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "6a20299f9b026371c10f83d2383db477618ea6f5d18368d0d99766627094d8de"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "58002443df7fac0e6c49af26b0ddabf2746606b3420a380700948a21b460c9d2"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e57cf55175ac27a62cf7723bd9619e7254f1213267eaff265184fe6dcbec4bad"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "3b8455aab88cdf58d9e6d8063c8b42db2c2ff0a151ee46874500995c5a415c2c"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "2687384a0fe71a368672b7311acf32b90df45c529ead36d99259959566f99b06"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "73a5c451fcb774c44d9f23d247391e1eb53c26d455969da702f9843111434203"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "0e064de58025782eaadddebd9d8490fb56ca0b170189c13b3a22af8dd984c83a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "0ff4d22df421517892bb250db824b90c671ea82e65d2ff27f24d380ae19c2ac8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c419565d497def3a666cdf0ccb7c41671914d9aab5e8a5479d1366a642b80dc5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9d1def0ee8e9ab0ddb972a5f755acdb7d7287f6655f081f9c8e473cb5687e02f"
+metafile = true
