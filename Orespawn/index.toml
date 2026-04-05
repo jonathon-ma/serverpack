@@ -91,6 +91,11 @@ hash = "e57cf55175ac27a62cf7723bd9619e7254f1213267eaff265184fe6dcbec4bad"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "5e329403dffa1a1f1610445919e68060b08963ff3896704aa8be184a5c1537dd"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "3b8455aab88cdf58d9e6d8063c8b42db2c2ff0a151ee46874500995c5a415c2c"
 metafile = true
