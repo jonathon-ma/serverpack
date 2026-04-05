@@ -16,6 +16,16 @@ hash = "cd2de7765805e1c8172db47a57218fcf6216c30c717ed2c949d5ac3be802c9ae"
 metafile = true
 
 [[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "b92e41996f3767ded1c97810ecb3a4676d5ffd88735cc1574c6f26cfb1f00a3f"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "84402a5235b869377739071a1e0cf9290b9af7ab08b7d1e3a88609c73679ba9d"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "d1f52b8e9b508bc7d0c36f6210eb881cdf1ceb48bbee886d00baf70f2c1b4381"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "49b1d2283c0918a5f2c1b56035b8048fe6c1139fc3cbb9a015e7a7d25e0b1289"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "123fcf8b99e0fee905417465ce45ae3af18466f29ab3ceceff643d4d2022be55"
 metafile = true
 
 [[files]]
