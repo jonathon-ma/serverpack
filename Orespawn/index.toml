@@ -31,6 +31,11 @@ hash = "d1f52b8e9b508bc7d0c36f6210eb881cdf1ceb48bbee886d00baf70f2c1b4381"
 metafile = true
 
 [[files]]
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "f14a31838fe8985b3c9a49d09889b277fbd1ec9786ff77d273a81abe0b626aff"
+metafile = true
+
+[[files]]
 file = "mods/craziness-awakened.pw.toml"
 hash = "82d2d99888a01b61de44635a7fe618d072a62bc616ca6f67b2786d7018be049d"
 metafile = true
