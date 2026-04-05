@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "c3089cd849224b33099d88f6f56e3db458121f5c450a5db6ed91e5243a59bea1"
+hash = "64a4c0133b537970d7beb89470eefafd06f917ca0ef7b1f91c67c3ff7fc78c07"
 metafile = true
 
 [[files]]
