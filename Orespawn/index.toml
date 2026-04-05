@@ -71,6 +71,11 @@ hash = "671302fdcffdd10e370a35901bb69d92f74e9f7e683b6ba3d0e1f987ba0be226"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "c3089cd849224b33099d88f6f56e3db458121f5c450a5db6ed91e5243a59bea1"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "deb42f009ac143ef9ff1516e65d5eede68a0d26016a75b01a1dd8e9bbde3fe10"
 metafile = true
