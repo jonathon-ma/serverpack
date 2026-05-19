@@ -6,6 +6,11 @@ hash = "f2a58a8b99423303ec092dca3169b39240a2a2776ee58cd2704c676fc3212065"
 metafile = true
 
 [[files]]
+file = "mods/ante.pw.toml"
+hash = "9ebe4d43b1076ed9ac2b77dac1bc93acabfafd7587e7519470bc2ca27ac5a404"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1b0d73dab03fa3b432542ad65dc94bba4aa3b41e8f8c1cb452276f616aeb09c5"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "b6b9e514a420b92d3e8259422fcca1c401879fcba62b8c10f06fac1adabef1f3"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "d503dd6710c9dc28f8fa634e28ed2ab76391121fcf936f03064254376525bbde"
 metafile = true
 
 [[files]]
