@@ -356,6 +356,11 @@ hash = "6916c3bdeb1b4b09dc6a2142956c2f7ebb93f64277225c1fbbaaf9275802d4d3"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "fd39136333cd98fc23abe093cd4f798d9b0ab5f48c8957ec739e354b2f3b78e5"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "75dcc598339b396de9aaea2896fddc1a8a667cf565905b9f6f8688ed73a4ccae"
 metafile = true
@@ -433,4 +438,9 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "67384cbc2f8e1ef13a7e8c15ddc96aea0de9aa99951b1192351d10f5bc6ca5bf"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "8c8b0b51480caddd63ff459450a5811d9d7900c1c55796d3318b01060864b855"
 metafile = true
