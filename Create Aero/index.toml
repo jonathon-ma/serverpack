@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "cb65d80c0ff5dbdc97f4082aa5b3314ef8a93dd2a296abdb6846fdbd1ce5229b"
+hash = "e659f99860533e13ae511c282dddbfbca9af8121d07657abecc38d8cc92023d1"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "347290299f3fb6a943535409cc1eeae6c8c883456f0303d8abb183432d00a913"
+hash = "4f8cfbb54dcc07be5352cac42f06c847cf2c9691c9d2f97073f1616c974bdba3"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap-maintained.pw.toml"
-hash = "3f49606e39558b5fe68327f121f5fd28cf04cbab04fcc54ef2c44909224a63cf"
+hash = "668afa4862b69dff30069e787aecbcb91679f56cc39001325c6fe42ca1e94950"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "9813b51a4c9c87b7806988e70275322a41eb5334ccd6e0b6320722821117a766"
+hash = "34f512b6f9ce21e97aaa969f6b6af67e674ae1395ed801df04806652cc8ddf3b"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "b4ceeb76c356121a3211f6aaed278c1a76fae441e48b648b7a748db2618dfb24"
+hash = "92e4dafdbebcf44d7f7fc59a2694e4423381720be45f945022cb5d7e78210d9d"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "bcbdc5bee6d211203f88df0a199108f221d60ba5e280b18382abe5dd4df3b8a8"
+hash = "cb30b897c4a400cbea7fa44fd371289ec99fe9a76ec59534232ea350613f10b2"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/towntalk.pw.toml"
-hash = "7a1cefede08655b16337b3134365a895cc32aa1ceb9abac3b4ea5ed89226f968"
+hash = "e5b7cb69cb43339864da67c70aab2c23269347a79bf64e0b0f9be17219171ae5"
 metafile = true
 
 [[files]]
