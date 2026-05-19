@@ -1,0 +1,18 @@
+filename = 'playingcards-2.0.1-neoforge.jar'
+name = 'Playing Cards & Chips'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'playingcards-2.0.1-neoforge.jar'
+
+[download]
+hash = '16133bc3b19bb69aeb0c686e70c24bf066788efe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7219926
+project-id = 1162591
