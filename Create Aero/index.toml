@@ -426,11 +426,6 @@ hash = "b382ad2db4c0253b3684b69a4f1dc17e4fe439c2eb2f517a3d8773e46e28736a"
 metafile = true
 
 [[files]]
-file = "mods/woodworks.pw.toml"
-hash = "55864f91b46fb3a983e6b1bae7c3b1e234f0ef7687faf027171bb74f5d812c5c"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
 metafile = true
