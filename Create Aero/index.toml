@@ -66,6 +66,11 @@ hash = "67b14c03c8920fc58b1510bb24bbc07aa4129132eac9e97620fcebf5e8e55405"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "f97b49c7bc36be2ee693c5d7418b1a602a0b36c32387cfd9cdd5a9838b4ae8a1"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "b6b9e514a420b92d3e8259422fcca1c401879fcba62b8c10f06fac1adabef1f3"
 metafile = true
@@ -183,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e074532fbb22bc5e8d8c3f969fc7e62971a1f21af53e5594b10a156da7f154f9"
 metafile = true
 
 [[files]]
@@ -343,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/perception.pw.toml"
 hash = "1df470b56f1da67802d0585a1710d02df0bf7c543b947752675c10dc80192ec6"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "bb893f7cdccf3ceddd63bb86aebd1a9960e68db10417933d54576bb737e04546"
 metafile = true
 
 [[files]]
