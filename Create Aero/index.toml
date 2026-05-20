@@ -236,6 +236,11 @@ hash = "3d4f3db7fffecfc5ec833e41b54d1e43094cf7d6143b6d36cf1d036773f0474e"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "617b8103228441a67f3014a35ceac0c8d063a801d7eadada76d9c4a9a624172d"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c03f7fb679748b4c8beb2197a25141d6e222798ef9f1af66b1e17b91452fd316"
 metafile = true
@@ -473,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "cb30b897c4a400cbea7fa44fd371289ec99fe9a76ec59534232ea350613f10b2"
-metafile = true
-
-[[files]]
-file = "mods/sync-re-forged.pw.toml"
-hash = "ac9bc709189aa9205a3e4d248e897e183e939725946bef774bac5c0690362106"
 metafile = true
 
 [[files]]
