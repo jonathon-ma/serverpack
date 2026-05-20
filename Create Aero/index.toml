@@ -116,6 +116,11 @@ hash = "41b6fd03f19b3fd2b0cb81669f1591308693e4a87c0d74fc6e9201a3e399de47"
 metafile = true
 
 [[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "3b6b1f44d2319520936a6e422ef60f4f2e7ad90def8433330bf1950a6bbe0a96"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
 metafile = true
@@ -138,6 +143,21 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "4f8cfbb54dcc07be5352cac42f06c847cf2c9691c9d2f97073f1616c974bdba3"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "7983c7d8211049602f664b7971d6fd91729c075c06dcccb14994a6b2b38013ce"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "792c0d952b2d719ea0d167bac6ba1535c3925b17ff249f763c600f66c8df3fc8"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-(emip).pw.toml"
+hash = "400a0af8be6c02550842875192bbf812563b715138c83d3d336f0c0278337e0c"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ hash = "03042a38a67189168d9ae266160a48c7e58391515c98fad4fc1e275e9913d868"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3d4f3db7fffecfc5ec833e41b54d1e43094cf7d6143b6d36cf1d036773f0474e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c03f7fb679748b4c8beb2197a25141d6e222798ef9f1af66b1e17b91452fd316"
 metafile = true
@@ -198,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "320810701022098a72aec7b907adba156bd2615aeb0c30576d7f46c1abe0325c"
 metafile = true
 
 [[files]]
@@ -231,6 +261,11 @@ hash = "bad7a016fed7f4a8416f8600de5f05e38a97acc8a35ed17f18e1b0e7fdcbf96f"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "c28e9a975de4d4166c50191746edf8e65b5112014485e70274e3c577e0b5730a"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "d40993e8561605bb1b217eaf6dafdd4a88727b8f2bb66c7c8b1749c5118e7323"
 metafile = true
@@ -248,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "6aa0befe61ce6eb033271ed92b0e89350bbaa61b74f6df7c4c59d1f64cb0e3e2"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "e7bd002c8ff9c45a99e48a2c7116e29e00efaa5cde194e97739a840498b2725b"
 metafile = true
 
 [[files]]
