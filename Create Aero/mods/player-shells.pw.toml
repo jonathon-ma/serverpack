@@ -1,0 +1,18 @@
+filename = 'playershells-1.21.1-0.0.8.jar'
+name = 'Player Shells'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.1-0.0.8'
+
+[download]
+hash = 'ed961e091da0244045a4964510e794536587a961c842fe41922b9bc164300918c6e576028e40818bd5bd28d52275a338730ec4a301210cec9c474fba84e9faee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qPuV8lER/versions/XeTxXHUc/playershells-1.21.1-0.0.8.jar'
+
+[update.modrinth]
+mod-id = 'qPuV8lER'
+version = 'XeTxXHUc'

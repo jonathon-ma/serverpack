@@ -1,0 +1,18 @@
+filename = 'dimdoors-6.1.2-1.21.1-neoforge.jar'
+name = 'Dimensional Doors'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '6.1.2'
+
+[download]
+hash = '96df9366b5cdd94fd3eee24cfabea60cbabe4c69de36c290ed9f580d7d584c68e28b674ee26689becc5da15b97d06dd01a768c1cba12f30f091cbafa5ec7574e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b8Q0BxnV/versions/ylf9bmJH/dimdoors-6.1.2-1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'b8Q0BxnV'
+version = 'ylf9bmJH'

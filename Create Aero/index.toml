@@ -71,6 +71,11 @@ hash = "f753f90b1ed81c10cf148cdd38a1257bfdc0d52a79343621cd4df599586461c6"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c9f5811e9b12ef54fe3bca7ec48f4d3a792b74a6d58c50c8a00194af6dfe5fae"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "67b14c03c8920fc58b1510bb24bbc07aa4129132eac9e97620fcebf5e8e55405"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/death-backup.pw.toml"
 hash = "ca05f9037dfb4fb69ddb449df8ba2d20f60e95b4e91117721b9574d8eaff031b"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "d1f2ce4b05fb5d292368fdfb983ede353390497503db4bfd5f61cf0492a27baa"
 metafile = true
 
 [[files]]
@@ -423,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "f80c582b6bfdd11d437059a59976c0c3afda95bbe6cc20a1564e29c9c0f5cb46"
+metafile = true
+
+[[files]]
+file = "mods/player-shells.pw.toml"
+hash = "ed4ce489dbf0c79b3a51621e2462f55fe2192b8f741032f2c50fa2c3820e57f3"
 metafile = true
 
 [[files]]
