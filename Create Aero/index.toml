@@ -51,6 +51,11 @@ hash = "902f58c6daa3adab75d47c81b0b227eca3bd265ef6a2f56608efd1f5f99779f0"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "7916cd103aa852dcc777ec1f1f4341a4efabcbb8a2efc8d2e764b36af70fc386"
+metafile = true
+
+[[files]]
 file = "mods/cbcperipheral.pw.toml"
 hash = "689ecdc990d54d5101c12bba20c1758a7241932ea9ea3961c1cfc9cde3030ea5"
 metafile = true
@@ -126,6 +131,11 @@ hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "a92de92b3f6fb48f760a4312147ad5d5faa984893d4aa0bc547a69abb4a0edc1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "523230e3c74919731a686819ecacde9700d3974de2439395398d53c008eabea2"
 metafile = true
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/death-backup.pw.toml"
 hash = "ca05f9037dfb4fb69ddb449df8ba2d20f60e95b4e91117721b9574d8eaff031b"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "d1f2ce4b05fb5d292368fdfb983ede353390497503db4bfd5f61cf0492a27baa"
 metafile = true
 
 [[files]]
@@ -243,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dd8d3afe5b4837547cc8173a8643bc7757d3a0adffa07b2bc922bf311cc5e98a"
+metafile = true
+
+[[files]]
+file = "mods/gta-horse-logic.pw.toml"
+hash = "49fc8f8712cb36bd94812290ee9513de9e37152effe56d0d9303e8fc064c6654"
 metafile = true
 
 [[files]]
@@ -448,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "cb30b897c4a400cbea7fa44fd371289ec99fe9a76ec59534232ea350613f10b2"
+metafile = true
+
+[[files]]
+file = "mods/sync-re-forged.pw.toml"
+hash = "ac9bc709189aa9205a3e4d248e897e183e939725946bef774bac5c0690362106"
 metafile = true
 
 [[files]]
