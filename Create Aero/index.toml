@@ -131,6 +131,11 @@ hash = "41b6fd03f19b3fd2b0cb81669f1591308693e4a87c0d74fc6e9201a3e399de47"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "4d6ceca878296544941c810efdeb062f9264f78c60cb242ec4ac88f5594ba1ce"
+metafile = true
+
+[[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "3b6b1f44d2319520936a6e422ef60f4f2e7ad90def8433330bf1950a6bbe0a96"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/playing-cards-chips.pw.toml"
 hash = "6916c3bdeb1b4b09dc6a2142956c2f7ebb93f64277225c1fbbaaf9275802d4d3"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5af08b37df242774d7cdbf73a739e79ad3acab8b3095910446f73743b24520b4"
 metafile = true
 
 [[files]]
