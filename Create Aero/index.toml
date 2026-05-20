@@ -101,6 +101,11 @@ hash = "919810e2d879dbf3ca45bc1bf733ff9b5a4fac8bd21b42572188877f61448a43"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "c30f70694441ee9a09bdd4d3057285979784acb7df6d3f1993cc6c51c8b2075d"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "97115a22626e6b0c83bb291ad85445f7311da67bcfb3e7dc5d1020d4f34d97bd"
 metafile = true
