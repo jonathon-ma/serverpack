@@ -51,6 +51,11 @@ hash = "902f58c6daa3adab75d47c81b0b227eca3bd265ef6a2f56608efd1f5f99779f0"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "e941ae81d62de6d45b82c53e02b85788782cbdc7d5f15c042465f7574eaec7a3"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "7916cd103aa852dcc777ec1f1f4341a4efabcbb8a2efc8d2e764b36af70fc386"
 metafile = true
@@ -361,6 +366,11 @@ hash = "1e16889971b82d156fea9fe0cfefde4d7c693e3644169d1eb5a041bd22d207ce"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "b2ae8b1ab40f73baf78d92e47e881b196ade59af6f747dd8168c12bb067a6481"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "93e85d46196e698d4193806de45ea0207645128e8fd023381829ae320a64df6d"
 metafile = true
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
 hash = "b42d7f8d1281abac174351d366cf82060157ef3b1f1efa9d2e474f9725bbf539"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "27364bc2a88e88d8c67f889cb1a8898e68c6a2ec1210ded63d7e41a48d9fb984"
 metafile = true
 
 [[files]]
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "92e4dafdbebcf44d7f7fc59a2694e4423381720be45f945022cb5d7e78210d9d"
+metafile = true
+
+[[files]]
+file = "mods/night-lights.pw.toml"
+hash = "642e6fb4cbd41dc44a0bd7063d6ba4b15e099c27d66f55048f760ea72f4416f3"
 metafile = true
 
 [[files]]
