@@ -526,6 +526,11 @@ hash = "f42d6fa1c3ff65bc1031620019c24b971a10922953db066c32effd1907dcfaa4"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "2d9a0c7bc06453f4990375a22f3e9e036608ee58549aa89957741b12a13a66e4"
+metafile = true
+
+[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "e5b7cb69cb43339864da67c70aab2c23269347a79bf64e0b0f9be17219171ae5"
 metafile = true
