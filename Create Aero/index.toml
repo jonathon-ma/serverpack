@@ -6,6 +6,10 @@ hash = "f2a58a8b99423303ec092dca3169b39240a2a2776ee58cd2704c676fc3212065"
 metafile = true
 
 [[files]]
+file = "mods/[1.21.1] Simply Light Sources v1.3.0 (NeoForge).jar"
+hash = "9686b21639eae26c7d3f69c17896d36813e5fe1dd9a3d909d4de4f52961db988"
+
+[[files]]
 file = "mods/ante.pw.toml"
 hash = "9ebe4d43b1076ed9ac2b77dac1bc93acabfafd7587e7519470bc2ca27ac5a404"
 metafile = true
@@ -143,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "3b6b1f44d2319520936a6e422ef60f4f2e7ad90def8433330bf1950a6bbe0a96"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "71b5951d1301691ff15151af89c096fe8a85a6090755181137f2b6a5dac29d86"
 metafile = true
 
 [[files]]
@@ -303,6 +312,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "bad7a016fed7f4a8416f8600de5f05e38a97acc8a35ed17f18e1b0e7fdcbf96f"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "45cd6fae2fb2fc49b5190011caea3b7e1f43395bcacf2d6da3f3b52bc74e2bf3"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f86a10950c4557243ef9235f121a35306df5ff9238cf2191071991ea38392b9c"
 metafile = true
 
 [[files]]
