@@ -155,6 +155,11 @@ hash = "71b5951d1301691ff15151af89c096fe8a85a6090755181137f2b6a5dac29d86"
 metafile = true
 
 [[files]]
+file = "mods/create-stellaris.pw.toml"
+hash = "4ac86115822590df8ccf784fea84bbb35f36322c216fbd25f123bbefd59368ed"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
 metafile = true
@@ -505,6 +510,11 @@ hash = "5af08b37df242774d7cdbf73a739e79ad3acab8b3095910446f73743b24520b4"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+hash = "deb4cc52dcf133b17794ad0d032fd49d893fac4a27512e87cb7ae61cf4953261"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "fd39136333cd98fc23abe093cd4f798d9b0ab5f48c8957ec739e354b2f3b78e5"
 metafile = true
@@ -532,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e79139f362694836c402c4ca6cf7705b1c1bd5c219b32cb3b2ad8ff48b265a82"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "f18ddd18c4801e0d3aa47318e1360d4ed2f2f241e8bbeb4110433a63b53f5f9a"
 metafile = true
 
 [[files]]
