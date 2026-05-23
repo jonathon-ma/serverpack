@@ -280,6 +280,11 @@ hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "97577bbdcc6b5cac6295e9731aea163e9589d16532b87b8e0e68de288897e613"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "320810701022098a72aec7b907adba156bd2615aeb0c30576d7f46c1abe0325c"
 metafile = true
