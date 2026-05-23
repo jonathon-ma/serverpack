@@ -515,6 +515,11 @@ hash = "deb4cc52dcf133b17794ad0d032fd49d893fac4a27512e87cb7ae61cf4953261"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "6ceff212ff1ae519a474bb7d53c7b5c4e311699d52f5b91ed39c48c9281b86d9"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "fd39136333cd98fc23abe093cd4f798d9b0ab5f48c8957ec739e354b2f3b78e5"
 metafile = true
