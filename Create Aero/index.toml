@@ -165,11 +165,6 @@ hash = "71b5951d1301691ff15151af89c096fe8a85a6090755181137f2b6a5dac29d86"
 metafile = true
 
 [[files]]
-file = "mods/create-stellaris.pw.toml"
-hash = "4ac86115822590df8ccf784fea84bbb35f36322c216fbd25f123bbefd59368ed"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
 metafile = true
