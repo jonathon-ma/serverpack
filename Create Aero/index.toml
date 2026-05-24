@@ -145,6 +145,16 @@ hash = "4d6ceca878296544941c810efdeb062f9264f78c60cb242ec4ac88f5594ba1ce"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "7bb75c6d0fa987bf9d661e988c65563ac962f27a5e80eba9fed3f981fafa243f"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "28f7d96067a5f08115ff995940085701caf68dad1c7d8cb0fbb6e01daa499af7"
+metafile = true
+
+[[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "3b6b1f44d2319520936a6e422ef60f4f2e7ad90def8433330bf1950a6bbe0a96"
 metafile = true
