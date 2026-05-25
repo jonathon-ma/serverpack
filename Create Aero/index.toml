@@ -370,6 +370,16 @@ hash = "e7bd002c8ff9c45a99e48a2c7116e29e00efaa5cde194e97739a840498b2725b"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "b76fe807aa10bdc3fcf1474a1d2733362eaf5bf6bf607beac7fb129cc298a3a3"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "555970008e5ee09295457d9b6e113a1a08310b9bceb709837042dfbb535ed9e0"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "07143866be6179c50980de67c22fe295f8f043080631e9faf23ce3ee46db1029"
 metafile = true
@@ -387,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/llo.pw.toml"
 hash = "358d163ffd4715f8a6424653c31fb4566341b743439494344c16f3d2a5500af6"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "1556ae8cba97a596143875b82a9f2a7274a0eb6398b9fd258dca6f0aa55b15f4"
 metafile = true
 
 [[files]]
@@ -532,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "fd39136333cd98fc23abe093cd4f798d9b0ab5f48c8957ec739e354b2f3b78e5"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "eb7e61380a3f4e5ae05fcb9a9f4e285447694e41879728e8b66ded14ebe33884"
 metafile = true
 
 [[files]]
