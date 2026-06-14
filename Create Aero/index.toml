@@ -40,6 +40,11 @@ hash = "6aa545b9ff5f0df2163910f4a35baacabcb95d7a01158b66eb55436dc24aa5aa"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "0a7216580d2d9bd351fa4572ab92895c70bb81be44d86b70d0557e97ccc8db7b"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "e659f99860533e13ae511c282dddbfbca9af8121d07657abecc38d8cc92023d1"
 metafile = true
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "f97b49c7bc36be2ee693c5d7418b1a602a0b36c32387cfd9cdd5a9838b4ae8a1"
+metafile = true
+
+[[files]]
+file = "mods/contact-loverekindled.pw.toml"
+hash = "1d6a3cfed985e9f79c912f82d95ef274f3a989d6d10f8af89fba41461c5a2cd3"
 metafile = true
 
 [[files]]
@@ -282,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "473a24f4fb7eea264b05fef97c8a71d13da6bea52c9d170f230c3434efd4d2c7"
 metafile = true
 
 [[files]]
@@ -480,8 +495,18 @@ hash = "38b151f3a919dd52bf0cd98d0ea768243c23335f2ac6e312c12bc0ae837a2af5"
 metafile = true
 
 [[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "cb000ce87fe02f9b77097df184d23060d5104d023f821a240b3379bf31de8506"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "ba8a8ac1bfa36486c89f0c099bb46b26337c79682a75944b1417d28cbd131d1a"
+metafile = true
+
+[[files]]
+file = "mods/oelib.pw.toml"
+hash = "dc8736fe2a30bec39ccdf87e8ebf5d63479657338e8f2b9e9dd08d81e688cfa5"
 metafile = true
 
 [[files]]
@@ -507,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/perception.pw.toml"
 hash = "1df470b56f1da67802d0585a1710d02df0bf7c543b947752675c10dc80192ec6"
+metafile = true
+
+[[files]]
+file = "mods/picture-mode.pw.toml"
+hash = "0a64502c3e470d743df78b130d51fa735c7cf4988dfd49a4a725667fbcdcbe72"
 metafile = true
 
 [[files]]
