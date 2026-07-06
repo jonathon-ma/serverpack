@@ -30,6 +30,11 @@ hash = "8549923ee6e38010b657d3f90f7124a6623ef28dc3a60ce88a6295a15a2aec4d"
 metafile = true
 
 [[files]]
+file = "mods/backup-manager.pw.toml"
+hash = "f3f638393fb767642699594844ac32f3d960526196401be2040bc5aa30c53264"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "5eae457085a54a41921096080501e1c5f020fa01f035f14ea4e5127ce7b1208a"
 metafile = true
@@ -530,6 +535,11 @@ hash = "9ebb1d56cfcf0e81fb3562e036c892d58779c82c83439eb47860d3090ef9c3aa"
 metafile = true
 
 [[files]]
+file = "mods/pastel-mod.pw.toml"
+hash = "73400febb75632bd04c5576313b2805644745c046f7fccb65cc20e78d85c5098"
+metafile = true
+
+[[files]]
 file = "mods/perception.pw.toml"
 hash = "1df470b56f1da67802d0585a1710d02df0bf7c543b947752675c10dc80192ec6"
 metafile = true
@@ -557,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/playing-cards-chips.pw.toml"
 hash = "6916c3bdeb1b4b09dc6a2142956c2f7ebb93f64277225c1fbbaaf9275802d4d3"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "f21d4cf725e0fdb180069a332e4ea66784db31f114e40b6cc40fc2186ba41afd"
 metafile = true
 
 [[files]]
@@ -602,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "deec50823519a064613ed7fb2228842658306327231ca49ab903388b701cd1fb"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "b1ce57d804ece453c1d0d93c51407e6cc5ffcd13ecd3d1859e3deed223288b48"
 metafile = true
 
 [[files]]

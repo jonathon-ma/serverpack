@@ -1,0 +1,25 @@
+filename = 'BackupManager-neoforge-1.21-1.0.0.jar'
+name = 'Backup Manager'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'a5fe8dd8e4e43749ce6262ce128ed99a65475ae953f8adfc1bcbe5524b7fc51467c8a28704f3ddc0c5f64af7a40cc17ec1d30ec078f2de040ae9184da4763c64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GS5Qkj3H/versions/WIexdGGR/BackupManager-neoforge-1.21-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'GS5Qkj3H'
+version = 'WIexdGGR'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6lvkzFFj'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fzSKSXVK'
+type = 'OPTIONAL'
