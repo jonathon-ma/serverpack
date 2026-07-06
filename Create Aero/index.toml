@@ -195,6 +195,16 @@ hash = "523230e3c74919731a686819ecacde9700d3974de2439395398d53c008eabea2"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "39074dc93296139f29b081165b7b6e3d235b6b185e62a29b809a652a8e07381f"
+metafile = true
+
+[[files]]
+file = "mods/databank.pw.toml"
+hash = "da38b5fede3200bdd8373694411cd7319e4c71dc10c405577b47ce94e5d0baeb"
+metafile = true
+
+[[files]]
 file = "mods/death-backup.pw.toml"
 hash = "ca05f9037dfb4fb69ddb449df8ba2d20f60e95b4e91117721b9574d8eaff031b"
 metafile = true
@@ -252,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "3398af4cfcc8e20ad345a1fc832c18f6db50caa547e448bf0a33b8b7eb878c46"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "47e4a97696cce8c6bd46def1cbab3688d2c0a4475b7af73876d00d1ab7d05bf2"
 metafile = true
 
 [[files]]
@@ -480,6 +495,11 @@ hash = "4df3a8b65431c26128916f4e9f592ca25ca557cb6255042b8be66948752bd2ea"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "d1b52ce0e5783f55e813174461708aa9aa3a6ea01b0b44ccea8d44ed5f1fe9d5"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7d32a097b18f9af470519fde4d16b3b8dd52ed6cf2c4bfabef224fb75187c822"
 metafile = true
@@ -627,6 +647,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e79139f362694836c402c4ca6cf7705b1c1bd5c219b32cb3b2ad8ff48b265a82"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d08f26cccdc42f84f46854efd83a93b4a55bf1cbdc0618ba210ac17ce0fe70f4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b644a6fff605f53a2bb48c73f0c3ca1372c853039e98348ab21deb4461d3e45a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "01220570e2efc2e2073f50f3744fc86148a9bbd861b23f45d1cdca177685d182"
 metafile = true
 
 [[files]]
